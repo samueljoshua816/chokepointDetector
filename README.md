@@ -1,13 +1,16 @@
 PROJECT GOAL:
+
 This project aims to highlight chokepoints in top Extreme Demons in Geometry Dash by creating a % death distribution map using record listings on the Pointercrate Demon List. 
 
 MVP:
+
 At minimum, the project must:
 1) Call the Pointercrate API from the project's Python script without errors.
 2) Save the results of the API call to a '.json' file.
 3) Display that file's data for a single level in a React app built with Vite.
 
 FUTURE PLANS / GOALS:
+
 1) Set up the basics of the GitHub repository. This includes the README.md file, the Eisenhower Matrix, and the system design diagram.
 2) Connect the Pointercrate API to a Python script. Ensure that you don't run into API errors. 
 3) Finally, send the API call results to a .json file.
@@ -19,13 +22,18 @@ FUTURE PLANS / GOALS:
 9) Host on Vercel
 
 TIMELINE: 
+
 Goals 1 - 4 should be done by Nov. 8th 2026
+
 Goals 5 - 6 should be done by Nov. 15th 2026
+
 Goals 7 - 8 should be done by Nov. 20th 2026
+
 Goal 9 should be complete by Nov. 26th 2026
 
 
 TECH STACK (SUBJECT TO CHANGE):
+
 1) Python
 2) TypeScript
 3) React
@@ -39,8 +47,11 @@ TECH STACK (SUBJECT TO CHANGE):
 11) cron
 
 NAVIGATION (SUBJECT TO UPDATES):
+
 Images of my Eisenhower Matrix & System Design are in the images folder.
 
 LINKS:
+
 Eisenhower Matrix: https://docs.google.com/document/d/1Af2WJiBBujM8FoQLbVodeT3RNRVhIqfdiU_j_KqRys4/edit?usp=sharing
+
 System Design: https://canva.link/ng76av75qupahyh
