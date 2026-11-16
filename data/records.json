@@ -244,6 +244,14 @@
     "demon": "ORBIT",
     "position": 9,
     "requirement": 65,
+    "player": "PlusrMinus",
+    "progress": 70
+  },
+  {
+    "demon_id": 671,
+    "demon": "ORBIT",
+    "position": 9,
+    "requirement": 65,
     "player": "Deimos",
     "progress": 66
   },
@@ -356,6 +364,14 @@
     "demon": "Nullscapes",
     "position": 11,
     "requirement": 68,
+    "player": "Borde",
+    "progress": 79
+  },
+  {
+    "demon_id": 589,
+    "demon": "Nullscapes",
+    "position": 11,
+    "requirement": 68,
     "player": "Adri420",
     "progress": 78
   },
@@ -365,14 +381,6 @@
     "position": 11,
     "requirement": 68,
     "player": "~ lenii.",
-    "progress": 77
-  },
-  {
-    "demon_id": 589,
-    "demon": "Nullscapes",
-    "position": 11,
-    "requirement": 68,
-    "player": "Borde",
     "progress": 77
   },
   {
@@ -677,7 +685,7 @@
     "position": 15,
     "requirement": 67,
     "player": "Masuke",
-    "progress": 94
+    "progress": 95
   },
   {
     "demon_id": 620,
@@ -1196,6 +1204,14 @@
     "demon": "Silent clubstep",
     "position": 18,
     "requirement": 63,
+    "player": "eternalluna",
+    "progress": 100
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
     "player": "Chiikawa",
     "progress": 78
   },
@@ -1301,14 +1317,6 @@
     "position": 18,
     "requirement": 63,
     "player": "oish",
-    "progress": 65
-  },
-  {
-    "demon_id": 428,
-    "demon": "Silent clubstep",
-    "position": 18,
-    "requirement": 63,
-    "player": "eternalluna",
     "progress": 65
   },
   {
@@ -1452,6 +1460,14 @@
     "demon": "Ultra Paracosm",
     "position": 19,
     "requirement": 37,
+    "player": "Deforklift",
+    "progress": 46
+  },
+  {
+    "demon_id": 704,
+    "demon": "Ultra Paracosm",
+    "position": 19,
+    "requirement": 37,
     "player": "[MAOR] Beto",
     "progress": 43
   },
@@ -1462,6 +1478,14 @@
     "requirement": 37,
     "player": "bartolini3",
     "progress": 42
+  },
+  {
+    "demon_id": 704,
+    "demon": "Ultra Paracosm",
+    "position": 19,
+    "requirement": 37,
+    "player": "[VOID] horse",
+    "progress": 40
   },
   {
     "demon_id": 704,
@@ -1765,6 +1789,14 @@
     "position": 21,
     "requirement": 66,
     "player": "fxpusphire",
+    "progress": 72
+  },
+  {
+    "demon_id": 613,
+    "demon": "andromeda",
+    "position": 21,
+    "requirement": 66,
+    "player": "The_Zok",
     "progress": 72
   },
   {
@@ -3660,6 +3692,14 @@
     "demon": "Acheron",
     "position": 28,
     "requirement": 70,
+    "player": "[MEALY] LAMINGTON",
+    "progress": 100
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 28,
+    "requirement": 70,
     "player": "[MYS] za1lx",
     "progress": 98
   },
@@ -3693,6 +3733,14 @@
     "position": 28,
     "requirement": 70,
     "player": "[gmccl] craig0",
+    "progress": 97
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 28,
+    "requirement": 70,
+    "player": "Miku Mayhem",
     "progress": 97
   },
   {
@@ -3860,14 +3908,6 @@
     "demon": "Acheron",
     "position": 28,
     "requirement": 70,
-    "player": "Miku Mayhem",
-    "progress": 73
-  },
-  {
-    "demon_id": 442,
-    "demon": "Acheron",
-    "position": 28,
-    "requirement": 70,
     "player": "Fallen1k",
     "progress": 73
   },
@@ -3957,14 +3997,6 @@
     "position": 28,
     "requirement": 70,
     "player": "serkname",
-    "progress": 72
-  },
-  {
-    "demon_id": 442,
-    "demon": "Acheron",
-    "position": 28,
-    "requirement": 70,
-    "player": "[MEALY] LAMINGTON",
     "progress": 72
   },
   {
@@ -4212,6 +4244,14 @@
     "demon": "Spectre",
     "position": 29,
     "requirement": 75,
+    "player": "[RF] Trixsm",
+    "progress": 100
+  },
+  {
+    "demon_id": 592,
+    "demon": "Spectre",
+    "position": 29,
+    "requirement": 75,
     "player": "MIxselPL",
     "progress": 94
   },
@@ -4230,14 +4270,6 @@
     "requirement": 75,
     "player": "NinSam",
     "progress": 91
-  },
-  {
-    "demon_id": 592,
-    "demon": "Spectre",
-    "position": 29,
-    "requirement": 75,
-    "player": "[RF] Trixsm",
-    "progress": 90
   },
   {
     "demon_id": 592,
@@ -4268,7 +4300,7 @@
     "demon": "Spectre",
     "position": 29,
     "requirement": 75,
-    "player": "veyra",
+    "player": "[MOON] veyra",
     "progress": 75
   },
   {
@@ -4412,6 +4444,14 @@
     "demon": "Menace",
     "position": 30,
     "requirement": 73,
+    "player": "TheJaco9",
+    "progress": 100
+  },
+  {
+    "demon_id": 577,
+    "demon": "Menace",
+    "position": 30,
+    "requirement": 73,
     "player": "[HOLA] Klopz",
     "progress": 96
   },
@@ -4438,14 +4478,6 @@
     "requirement": 73,
     "player": "Kamris",
     "progress": 86
-  },
-  {
-    "demon_id": 577,
-    "demon": "Menace",
-    "position": 30,
-    "requirement": 73,
-    "player": "TheJaco9",
-    "progress": 85
   },
   {
     "demon_id": 413,
@@ -4732,7 +4764,7 @@
     "demon": "Abyss of Darkness",
     "position": 31,
     "requirement": 75,
-    "player": "veyra",
+    "player": "[MOON] veyra",
     "progress": 100
   },
   {
@@ -4876,6 +4908,14 @@
     "demon": "Abyss of Darkness",
     "position": 31,
     "requirement": 75,
+    "player": "[HERVE] Cryostazz",
+    "progress": 100
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 31,
+    "requirement": 75,
     "player": "[GMT] ApparentlyDan",
     "progress": 98
   },
@@ -4901,14 +4941,6 @@
     "position": 31,
     "requirement": 75,
     "player": "[HOLA] Pimpollas",
-    "progress": 95
-  },
-  {
-    "demon_id": 413,
-    "demon": "Abyss of Darkness",
-    "position": 31,
-    "requirement": 75,
-    "player": "[HERVE] Cryostazz",
     "progress": 95
   },
   {
@@ -6453,7 +6485,7 @@
     "position": 36,
     "requirement": 75,
     "player": "rogi",
-    "progress": 78
+    "progress": 100
   },
   {
     "demon_id": 528,
@@ -6709,7 +6741,7 @@
     "position": 39,
     "requirement": 74,
     "player": "[!MUTE] piesy",
-    "progress": 98
+    "progress": 100
   },
   {
     "demon_id": 380,
@@ -7780,7 +7812,7 @@
     "demon": "Slaughterhouse",
     "position": 40,
     "requirement": 75,
-    "player": "[MEALY] redd",
+    "player": "phoebii77",
     "progress": 100
   },
   {
@@ -9228,7 +9260,7 @@
     "demon": "Slaughterhouse",
     "position": 40,
     "requirement": 75,
-    "player": "veyra",
+    "player": "[MOON] veyra",
     "progress": 100
   },
   {
@@ -9316,6 +9348,14 @@
     "demon": "Slaughterhouse",
     "position": 40,
     "requirement": 75,
+    "player": "RunT",
+    "progress": 100
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 40,
+    "requirement": 75,
     "player": "AJXPRO [PR]",
     "progress": 100
   },
@@ -9357,6 +9397,30 @@
     "position": 40,
     "requirement": 75,
     "player": "!axcy",
+    "progress": 100
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 40,
+    "requirement": 75,
+    "player": "Bokash",
+    "progress": 100
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 40,
+    "requirement": 75,
+    "player": "[CREAM] Nusski",
+    "progress": 100
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 40,
+    "requirement": 75,
+    "player": "navo",
     "progress": 100
   },
   {
@@ -9421,14 +9485,6 @@
     "position": 40,
     "requirement": 75,
     "player": "maciussigma5",
-    "progress": 95
-  },
-  {
-    "demon_id": 380,
-    "demon": "Slaughterhouse",
-    "position": 40,
-    "requirement": 75,
-    "player": "Bokash",
     "progress": 95
   },
   {
@@ -9700,14 +9756,6 @@
     "demon": "Slaughterhouse",
     "position": 40,
     "requirement": 75,
-    "player": "[CREAM] Nusski",
-    "progress": 86
-  },
-  {
-    "demon_id": 380,
-    "demon": "Slaughterhouse",
-    "position": 40,
-    "requirement": 75,
     "player": "[SMX] Violet",
     "progress": 86
   },
@@ -9749,6 +9797,14 @@
     "position": 40,
     "requirement": 75,
     "player": "NIMPOP",
+    "progress": 86
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 40,
+    "requirement": 75,
+    "player": "orbPT",
     "progress": 86
   },
   {
@@ -9836,14 +9892,6 @@
     "demon": "Slaughterhouse",
     "position": 40,
     "requirement": 75,
-    "player": "navo",
-    "progress": 83
-  },
-  {
-    "demon_id": 380,
-    "demon": "Slaughterhouse",
-    "position": 40,
-    "requirement": 75,
     "player": "Frostix",
     "progress": 82
   },
@@ -9861,14 +9909,6 @@
     "position": 40,
     "requirement": 75,
     "player": "Jolly15",
-    "progress": 82
-  },
-  {
-    "demon_id": 380,
-    "demon": "Slaughterhouse",
-    "position": 40,
-    "requirement": 75,
-    "player": "RunT",
     "progress": 82
   },
   {
@@ -10020,6 +10060,14 @@
     "demon": "Slaughterhouse",
     "position": 40,
     "requirement": 75,
+    "player": "xpcheese",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 40,
+    "requirement": 75,
     "player": "ItzQueney",
     "progress": 80
   },
@@ -10061,6 +10109,14 @@
     "position": 40,
     "requirement": 75,
     "player": "[A$AP] MiOteK",
+    "progress": 80
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 40,
+    "requirement": 75,
+    "player": "meylowW",
     "progress": 80
   },
   {
@@ -10236,6 +10292,14 @@
     "demon": "Slaughterhouse",
     "position": 40,
     "requirement": 75,
+    "player": "Nyxi",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 40,
+    "requirement": 75,
     "player": "Eclipse",
     "progress": 78
   },
@@ -10292,6 +10356,14 @@
     "demon": "Slaughterhouse",
     "position": 40,
     "requirement": 75,
+    "player": "chesborge",
+    "progress": 78
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 40,
+    "requirement": 75,
     "player": "zxydGD",
     "progress": 77
   },
@@ -10340,6 +10412,14 @@
     "demon": "Slaughterhouse",
     "position": 40,
     "requirement": 75,
+    "player": "iamcrusher",
+    "progress": 76
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 40,
+    "requirement": 75,
     "player": "[TDH] LotokzBot",
     "progress": 76
   },
@@ -10373,14 +10453,6 @@
     "position": 40,
     "requirement": 75,
     "player": "aden5674",
-    "progress": 76
-  },
-  {
-    "demon_id": 380,
-    "demon": "Slaughterhouse",
-    "position": 40,
-    "requirement": 75,
-    "player": "xpcheese",
     "progress": 76
   },
   {
@@ -10508,14 +10580,6 @@
     "demon": "Slaughterhouse",
     "position": 40,
     "requirement": 75,
-    "player": "orbPT",
-    "progress": 75
-  },
-  {
-    "demon_id": 380,
-    "demon": "Slaughterhouse",
-    "position": 40,
-    "requirement": 75,
     "player": "NathanPatty",
     "progress": 75
   },
@@ -10541,6 +10605,30 @@
     "position": 40,
     "requirement": 75,
     "player": "[SR53] icey",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 40,
+    "requirement": 75,
+    "player": "[GTS] theos",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 40,
+    "requirement": 75,
+    "player": "HotSauceFear",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 40,
+    "requirement": 75,
+    "player": "[GDC] Eskimi",
     "progress": 75
   },
   {
@@ -11580,6 +11668,22 @@
     "demon": "KOCMOC",
     "position": 42,
     "requirement": 73,
+    "player": "[HOLA] DeividG",
+    "progress": 100
+  },
+  {
+    "demon_id": 501,
+    "demon": "KOCMOC",
+    "position": 42,
+    "requirement": 73,
+    "player": "Franzy",
+    "progress": 100
+  },
+  {
+    "demon_id": 501,
+    "demon": "KOCMOC",
+    "position": 42,
+    "requirement": 73,
     "player": "Orgen",
     "progress": 86
   },
@@ -11622,6 +11726,14 @@
     "requirement": 73,
     "player": "nqlol",
     "progress": 78
+  },
+  {
+    "demon_id": 501,
+    "demon": "KOCMOC",
+    "position": 42,
+    "requirement": 73,
+    "player": "Liamkn08",
+    "progress": 76
   },
   {
     "demon_id": 501,
@@ -11692,7 +11804,7 @@
     "demon": "BEING HOME",
     "position": 43,
     "requirement": 73,
-    "player": "veyra",
+    "player": "[MOON] veyra",
     "progress": 100
   },
   {
@@ -11773,7 +11885,15 @@
     "position": 43,
     "requirement": 73,
     "player": "[LARP] voicechatping",
-    "progress": 81
+    "progress": 100
+  },
+  {
+    "demon_id": 679,
+    "demon": "BEING HOME",
+    "position": 43,
+    "requirement": 73,
+    "player": "devan24",
+    "progress": 100
   },
   {
     "demon_id": 679,
@@ -12164,7 +12284,7 @@
     "demon": "Deimos",
     "position": 44,
     "requirement": 70,
-    "player": "veyra",
+    "player": "[MOON] veyra",
     "progress": 100
   },
   {
@@ -13197,7 +13317,7 @@
     "position": 45,
     "requirement": 78,
     "player": "[CORN] Qburger",
-    "progress": 95
+    "progress": 100
   },
   {
     "demon_id": 652,
@@ -13214,6 +13334,14 @@
     "requirement": 78,
     "player": "bobcob",
     "progress": 87
+  },
+  {
+    "demon_id": 652,
+    "demon": "CHIL",
+    "position": 45,
+    "requirement": 78,
+    "player": "roostan",
+    "progress": 86
   },
   {
     "demon_id": 652,
@@ -13308,6 +13436,14 @@
     "demon": "zorin",
     "position": 46,
     "requirement": 62,
+    "player": "[아기엔더맨] karkito",
+    "progress": 100
+  },
+  {
+    "demon_id": 677,
+    "demon": "zorin",
+    "position": 46,
+    "requirement": 62,
     "player": "slusset",
     "progress": 83
   },
@@ -13340,6 +13476,14 @@
     "demon": "Prismline",
     "position": 47,
     "requirement": 71,
+    "player": "[400] CuatrocientosYT",
+    "progress": 100
+  },
+  {
+    "demon_id": 708,
+    "demon": "Prismline",
+    "position": 47,
+    "requirement": 71,
     "player": "sawyer",
     "progress": 82
   },
@@ -13349,6 +13493,14 @@
     "position": 48,
     "requirement": 71,
     "player": "Axinity",
+    "progress": 100
+  },
+  {
+    "demon_id": 731,
+    "demon": "BASSLINE JUNKIE",
+    "position": 48,
+    "requirement": 71,
+    "player": "[아기엔더맨] karkito",
     "progress": 100
   },
   {
@@ -14988,6 +15140,22 @@
     "demon": "Sakupen Circles",
     "position": 49,
     "requirement": 69,
+    "player": "NJGhost9",
+    "progress": 100
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 49,
+    "requirement": 69,
+    "player": "noobyguy1",
+    "progress": 100
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 49,
+    "requirement": 69,
     "player": "[RIVER] Cclixgd",
     "progress": 82
   },
@@ -15293,6 +15461,14 @@
     "position": 49,
     "requirement": 69,
     "player": "[NDSH] MoyaiX",
+    "progress": 69
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 49,
+    "requirement": 69,
+    "player": "[HOLA] agatha",
     "progress": 69
   },
   {
@@ -16300,7 +16476,31 @@
     "demon": "Snowbound",
     "position": 56,
     "requirement": 68,
+    "player": "[아기엔더맨] Blebae",
+    "progress": 100
+  },
+  {
+    "demon_id": 658,
+    "demon": "Snowbound",
+    "position": 56,
+    "requirement": 68,
     "player": "AlecZD",
+    "progress": 100
+  },
+  {
+    "demon_id": 658,
+    "demon": "Snowbound",
+    "position": 56,
+    "requirement": 68,
+    "player": "Hels",
+    "progress": 100
+  },
+  {
+    "demon_id": 658,
+    "demon": "Snowbound",
+    "position": 56,
+    "requirement": 68,
+    "player": "[HOLA] weyolll3",
     "progress": 100
   },
   {
@@ -16328,6 +16528,14 @@
     "progress": 72
   },
   {
+    "demon_id": 658,
+    "demon": "Snowbound",
+    "position": 56,
+    "requirement": 68,
+    "player": "marcix",
+    "progress": 71
+  },
+  {
     "demon_id": 740,
     "demon": "ace",
     "position": 58,
@@ -16341,6 +16549,14 @@
     "position": 58,
     "requirement": 64,
     "player": "[didy] monodynamics",
+    "progress": 100
+  },
+  {
+    "demon_id": 740,
+    "demon": "ace",
+    "position": 58,
+    "requirement": 64,
+    "player": "Hels",
     "progress": 100
   },
   {
@@ -17876,7 +18092,7 @@
     "demon": "Firework",
     "position": 59,
     "requirement": 71,
-    "player": "veyra",
+    "player": "[MOON] veyra",
     "progress": 100
   },
   {
@@ -18172,6 +18388,46 @@
     "demon": "Firework",
     "position": 59,
     "requirement": 71,
+    "player": "GDLNB",
+    "progress": 100
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 59,
+    "requirement": 71,
+    "player": "zreal",
+    "progress": 100
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 59,
+    "requirement": 71,
+    "player": "[FOWL] geodom",
+    "progress": 100
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 59,
+    "requirement": 71,
+    "player": "[RF] Trixsm",
+    "progress": 100
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 59,
+    "requirement": 71,
+    "player": "babybeeee",
+    "progress": 100
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 59,
+    "requirement": 71,
     "player": "Zwariowany Wojtek",
     "progress": 97
   },
@@ -18214,14 +18470,6 @@
     "requirement": 71,
     "player": "ioneix",
     "progress": 87
-  },
-  {
-    "demon_id": 379,
-    "demon": "Firework",
-    "position": 59,
-    "requirement": 71,
-    "player": "zreal",
-    "progress": 86
   },
   {
     "demon_id": 379,
@@ -18621,7 +18869,7 @@
     "position": 60,
     "requirement": 90,
     "player": "purrzzival",
-    "progress": 96
+    "progress": 100
   },
   {
     "demon_id": 663,
@@ -18845,6 +19093,30 @@
     "position": 61,
     "requirement": 73,
     "player": "[TCC] NoctaXI",
+    "progress": 100
+  },
+  {
+    "demon_id": 614,
+    "demon": "Apocalyptic Trilogy",
+    "position": 61,
+    "requirement": 73,
+    "player": "Tunax",
+    "progress": 100
+  },
+  {
+    "demon_id": 614,
+    "demon": "Apocalyptic Trilogy",
+    "position": 61,
+    "requirement": 73,
+    "player": "[TCD] Doggie",
+    "progress": 100
+  },
+  {
+    "demon_id": 614,
+    "demon": "Apocalyptic Trilogy",
+    "position": 61,
+    "requirement": 73,
+    "player": "luisf12321",
     "progress": 100
   },
   {
@@ -19404,6 +19676,14 @@
     "demon": "KOSETSU",
     "position": 63,
     "requirement": 68,
+    "player": "aatosballs",
+    "progress": 100
+  },
+  {
+    "demon_id": 587,
+    "demon": "KOSETSU",
+    "position": 63,
+    "requirement": 68,
     "player": "Zaaforus",
     "progress": 82
   },
@@ -19442,7 +19722,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "[400] CuatrocientosYT",
     "progress": 100
@@ -19450,7 +19730,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "[ETPS] Xplode",
     "progress": 100
@@ -19458,7 +19738,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "[ЗСУ] Rain",
     "progress": 100
@@ -19466,7 +19746,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "BreadGuyGD",
     "progress": 100
@@ -19474,7 +19754,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "eastshark",
     "progress": 100
@@ -19482,7 +19762,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "Bennu",
     "progress": 100
@@ -19490,7 +19770,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "[OG B] Airez",
     "progress": 100
@@ -19498,7 +19778,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "[ILUV] Vexi",
     "progress": 100
@@ -19506,7 +19786,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "Tired",
     "progress": 100
@@ -19514,7 +19794,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "Aeryn",
     "progress": 100
@@ -19522,7 +19802,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "MIxselPL",
     "progress": 100
@@ -19530,7 +19810,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "[MAOR] Duv",
     "progress": 100
@@ -19538,7 +19818,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "[24hs] 金艮",
     "progress": 100
@@ -19546,7 +19826,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "[JORB] Zephronox",
     "progress": 100
@@ -19554,7 +19834,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "[THNDR] Thnnder",
     "progress": 100
@@ -19562,7 +19842,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "[IH82P] Marcosito",
     "progress": 100
@@ -19570,7 +19850,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "[67] Zoink",
     "progress": 100
@@ -19578,7 +19858,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "[RF] Johnlikediamond",
     "progress": 100
@@ -19586,7 +19866,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "[SEREK] lus",
     "progress": 100
@@ -19594,7 +19874,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "peekingurangle",
     "progress": 100
@@ -19602,7 +19882,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "[DOUD] Dodouche",
     "progress": 100
@@ -19610,7 +19890,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "[RF] It keeps your hands clean",
     "progress": 100
@@ -19618,7 +19898,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "KJ8ishere",
     "progress": 100
@@ -19626,7 +19906,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "1qawsz",
     "progress": 100
@@ -19634,7 +19914,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "[GDYU] Mixasuspa",
     "progress": 100
@@ -19642,7 +19922,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "Wheflie",
     "progress": 100
@@ -19650,7 +19930,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "Henrooskis",
     "progress": 100
@@ -19658,7 +19938,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "[DOUD] DeadlockRC",
     "progress": 100
@@ -19666,7 +19946,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "[RF] Trixsm",
     "progress": 63
@@ -19674,7 +19954,15 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
+    "requirement": 57,
+    "player": "MythicGD",
+    "progress": 61
+  },
+  {
+    "demon_id": 667,
+    "demon": "Voltage",
+    "position": 65,
     "requirement": 57,
     "player": "exakic",
     "progress": 60
@@ -19682,7 +19970,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "pidan2222",
     "progress": 59
@@ -19690,7 +19978,7 @@
   {
     "demon_id": 667,
     "demon": "Voltage",
-    "position": 64,
+    "position": 65,
     "requirement": 57,
     "player": "Cheeburger",
     "progress": 59
@@ -19698,7 +19986,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "xxxluigixxx",
     "progress": 100
@@ -19706,7 +19994,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "Arouvis",
     "progress": 100
@@ -19714,7 +20002,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[RF] Johnlikediamond",
     "progress": 100
@@ -19722,7 +20010,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[JUICE] penpenliddy",
     "progress": 100
@@ -19730,7 +20018,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[SGD] CookieIsMine",
     "progress": 100
@@ -19738,7 +20026,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[JUICE] Amplitron",
     "progress": 100
@@ -19746,7 +20034,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[OG] goobs",
     "progress": 100
@@ -19754,7 +20042,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[ILUV] PoCle",
     "progress": 100
@@ -19762,7 +20050,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[RHTE] sharkyga",
     "progress": 100
@@ -19770,7 +20058,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[MAOR] Duv",
     "progress": 100
@@ -19778,7 +20066,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[OG] ProudGiraffe311",
     "progress": 100
@@ -19786,7 +20074,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "fxpusphire",
     "progress": 100
@@ -19794,7 +20082,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "Dustabounds",
     "progress": 100
@@ -19802,7 +20090,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[ЗСУ] Rain",
     "progress": 100
@@ -19810,7 +20098,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "Chayok",
     "progress": 100
@@ -19818,7 +20106,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[HOLA] Draks_Loves_U",
     "progress": 100
@@ -19826,7 +20114,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "cauri",
     "progress": 100
@@ -19834,7 +20122,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[BLKHL] OK1324",
     "progress": 100
@@ -19842,7 +20130,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "ElPepinooXGD",
     "progress": 100
@@ -19850,7 +20138,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[JUICE] Ratio",
     "progress": 100
@@ -19858,7 +20146,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[PULA] SheeeshGD",
     "progress": 100
@@ -19866,7 +20154,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[j] wooshify",
     "progress": 100
@@ -19874,7 +20162,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[ROAR] coubitic",
     "progress": 100
@@ -19882,7 +20170,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[HOLA] ThiagoRostizado",
     "progress": 100
@@ -19890,7 +20178,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[RHTE] TheFireInside",
     "progress": 100
@@ -19898,7 +20186,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "Samot",
     "progress": 100
@@ -19906,7 +20194,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[IBSL] ado",
     "progress": 100
@@ -19914,7 +20202,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[MAOR] itorio",
     "progress": 100
@@ -19922,7 +20210,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[PULA] VxMasTeR",
     "progress": 100
@@ -19930,7 +20218,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[PULA] Goanga",
     "progress": 100
@@ -19938,7 +20226,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[PULA] calinos",
     "progress": 100
@@ -19946,7 +20234,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[COMET] Kaza",
     "progress": 100
@@ -19954,7 +20242,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[PULA] Hire",
     "progress": 100
@@ -19962,7 +20250,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[IH82P] Marcosito",
     "progress": 100
@@ -19970,7 +20258,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[REME] Aldaren",
     "progress": 100
@@ -19978,7 +20266,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "Riot48572",
     "progress": 100
@@ -19986,7 +20274,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[RF] Trixsm",
     "progress": 100
@@ -19994,7 +20282,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "grfruit",
     "progress": 100
@@ -20002,7 +20290,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[LASER] Laysah",
     "progress": 100
@@ -20010,7 +20298,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "IAmJuanan",
     "progress": 100
@@ -20018,7 +20306,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[JORB] Zephronox",
     "progress": 100
@@ -20026,7 +20314,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[SR53] TheReactionRule",
     "progress": 100
@@ -20034,7 +20322,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[STACK] Jyvl01",
     "progress": 100
@@ -20042,7 +20330,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "Smapalt",
     "progress": 100
@@ -20050,7 +20338,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[CAFE] Calo",
     "progress": 100
@@ -20058,7 +20346,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "TrollFaceGaming",
     "progress": 100
@@ -20066,7 +20354,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "bob_vi",
     "progress": 100
@@ -20074,15 +20362,31 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "[JUICE] Trees",
-    "progress": 75
+    "progress": 100
   },
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
+    "requirement": 72,
+    "player": "Laban",
+    "progress": 100
+  },
+  {
+    "demon_id": 673,
+    "demon": "NOMAD",
+    "position": 66,
+    "requirement": 72,
+    "player": "oven",
+    "progress": 78
+  },
+  {
+    "demon_id": 673,
+    "demon": "NOMAD",
+    "position": 66,
     "requirement": 72,
     "player": "[HOLA] Foxdee",
     "progress": 75
@@ -20090,7 +20394,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "shawtyyshurryyy",
     "progress": 75
@@ -20098,15 +20402,7 @@
   {
     "demon_id": 673,
     "demon": "NOMAD",
-    "position": 65,
-    "requirement": 72,
-    "player": "oven",
-    "progress": 75
-  },
-  {
-    "demon_id": 673,
-    "demon": "NOMAD",
-    "position": 65,
+    "position": 66,
     "requirement": 72,
     "player": "JackoXD⁩",
     "progress": 73
@@ -20114,7 +20410,7 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
+    "position": 67,
     "requirement": 64,
     "player": "[RF] Johnlikediamond",
     "progress": 100
@@ -20122,7 +20418,7 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
+    "position": 67,
     "requirement": 64,
     "player": "[OBCD] Oblivionus",
     "progress": 100
@@ -20130,7 +20426,7 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
+    "position": 67,
     "requirement": 64,
     "player": "[didy] chips",
     "progress": 100
@@ -20138,7 +20434,7 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
+    "position": 67,
     "requirement": 64,
     "player": "[CREAM] ZsolZEE",
     "progress": 100
@@ -20146,7 +20442,7 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
+    "position": 67,
     "requirement": 64,
     "player": "[4MO] Abstract",
     "progress": 100
@@ -20154,7 +20450,7 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
+    "position": 67,
     "requirement": 64,
     "player": "Wolfboi",
     "progress": 100
@@ -20162,7 +20458,7 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
+    "position": 67,
     "requirement": 64,
     "player": "Samot",
     "progress": 100
@@ -20170,7 +20466,7 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
+    "position": 67,
     "requirement": 64,
     "player": "[SARK] cudby",
     "progress": 100
@@ -20178,7 +20474,7 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
+    "position": 67,
     "requirement": 64,
     "player": "[HERVE] BBQDash",
     "progress": 100
@@ -20186,7 +20482,7 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
+    "position": 67,
     "requirement": 64,
     "player": "Sci",
     "progress": 100
@@ -20194,7 +20490,7 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
+    "position": 67,
     "requirement": 64,
     "player": "Aeryn",
     "progress": 100
@@ -20202,7 +20498,7 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
+    "position": 67,
     "requirement": 64,
     "player": "Freaky Normal",
     "progress": 100
@@ -20210,7 +20506,7 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
+    "position": 67,
     "requirement": 64,
     "player": "Tunax",
     "progress": 100
@@ -20218,7 +20514,7 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
+    "position": 67,
     "requirement": 64,
     "player": "Bacolor",
     "progress": 90
@@ -20226,7 +20522,15 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
+    "position": 67,
+    "requirement": 64,
+    "player": "[RHTE] TheFireInside",
+    "progress": 87
+  },
+  {
+    "demon_id": 705,
+    "demon": "NervHell",
+    "position": 67,
     "requirement": 64,
     "player": "ExiliuS",
     "progress": 81
@@ -20234,7 +20538,7 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
+    "position": 67,
     "requirement": 64,
     "player": "tober",
     "progress": 81
@@ -20242,15 +20546,7 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
-    "requirement": 64,
-    "player": "[RHTE] TheFireInside",
-    "progress": 69
-  },
-  {
-    "demon_id": 705,
-    "demon": "NervHell",
-    "position": 66,
+    "position": 67,
     "requirement": 64,
     "player": "vulcanium4",
     "progress": 66
@@ -20258,7 +20554,7 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
+    "position": 67,
     "requirement": 64,
     "player": "Zaffy",
     "progress": 65
@@ -20266,7 +20562,15 @@
   {
     "demon_id": 705,
     "demon": "NervHell",
-    "position": 66,
+    "position": 67,
+    "requirement": 64,
+    "player": "Turt1e",
+    "progress": 64
+  },
+  {
+    "demon_id": 705,
+    "demon": "NervHell",
+    "position": 67,
     "requirement": 64,
     "player": "kyno",
     "progress": 64
@@ -20274,7 +20578,7 @@
   {
     "demon_id": 642,
     "demon": "Loops of Fury",
-    "position": 67,
+    "position": 68,
     "requirement": 73,
     "player": "[TCC] tteokk",
     "progress": 100
@@ -20282,7 +20586,7 @@
   {
     "demon_id": 642,
     "demon": "Loops of Fury",
-    "position": 67,
+    "position": 68,
     "requirement": 73,
     "player": "kakol",
     "progress": 100
@@ -20290,7 +20594,7 @@
   {
     "demon_id": 642,
     "demon": "Loops of Fury",
-    "position": 67,
+    "position": 68,
     "requirement": 73,
     "player": "Chubs Dubs",
     "progress": 100
@@ -20298,7 +20602,7 @@
   {
     "demon_id": 642,
     "demon": "Loops of Fury",
-    "position": 67,
+    "position": 68,
     "requirement": 73,
     "player": "[GLUKE] Ihsa",
     "progress": 100
@@ -20306,7 +20610,7 @@
   {
     "demon_id": 642,
     "demon": "Loops of Fury",
-    "position": 67,
+    "position": 68,
     "requirement": 73,
     "player": "J0NTAN",
     "progress": 100
@@ -20314,7 +20618,7 @@
   {
     "demon_id": 642,
     "demon": "Loops of Fury",
-    "position": 67,
+    "position": 68,
     "requirement": 73,
     "player": "[WBT] wPopoff",
     "progress": 100
@@ -20322,7 +20626,7 @@
   {
     "demon_id": 642,
     "demon": "Loops of Fury",
-    "position": 67,
+    "position": 68,
     "requirement": 73,
     "player": "xmercurylamp",
     "progress": 100
@@ -20330,7 +20634,7 @@
   {
     "demon_id": 642,
     "demon": "Loops of Fury",
-    "position": 67,
+    "position": 68,
     "requirement": 73,
     "player": "[TSC] destr",
     "progress": 100
@@ -20338,7 +20642,7 @@
   {
     "demon_id": 642,
     "demon": "Loops of Fury",
-    "position": 67,
+    "position": 68,
     "requirement": 73,
     "player": "[MAOR] itorio",
     "progress": 100
@@ -20346,7 +20650,7 @@
   {
     "demon_id": 642,
     "demon": "Loops of Fury",
-    "position": 67,
+    "position": 68,
     "requirement": 73,
     "player": "[UK] CrystalGD",
     "progress": 78
@@ -20354,7 +20658,7 @@
   {
     "demon_id": 681,
     "demon": "Fracture",
-    "position": 68,
+    "position": 69,
     "requirement": 66,
     "player": "[MEALY] zLevii",
     "progress": 100
@@ -20362,7 +20666,7 @@
   {
     "demon_id": 681,
     "demon": "Fracture",
-    "position": 68,
+    "position": 69,
     "requirement": 66,
     "player": "[ASTIL] manu",
     "progress": 100
@@ -20370,7 +20674,7 @@
   {
     "demon_id": 681,
     "demon": "Fracture",
-    "position": 68,
+    "position": 69,
     "requirement": 66,
     "player": "[GTS] Sharkified",
     "progress": 100
@@ -20378,7 +20682,7 @@
   {
     "demon_id": 681,
     "demon": "Fracture",
-    "position": 68,
+    "position": 69,
     "requirement": 66,
     "player": "[PULA] VxMasTeR",
     "progress": 100
@@ -20386,7 +20690,7 @@
   {
     "demon_id": 681,
     "demon": "Fracture",
-    "position": 68,
+    "position": 69,
     "requirement": 66,
     "player": "[MEALY] LAMINGTON",
     "progress": 100
@@ -20394,7 +20698,7 @@
   {
     "demon_id": 681,
     "demon": "Fracture",
-    "position": 68,
+    "position": 69,
     "requirement": 66,
     "player": "[RHTE] sharkyga",
     "progress": 100
@@ -20402,7 +20706,7 @@
   {
     "demon_id": 681,
     "demon": "Fracture",
-    "position": 68,
+    "position": 69,
     "requirement": 66,
     "player": "rowinile",
     "progress": 100
@@ -20410,7 +20714,7 @@
   {
     "demon_id": 681,
     "demon": "Fracture",
-    "position": 68,
+    "position": 69,
     "requirement": 66,
     "player": "[YAHO] Sovereign",
     "progress": 100
@@ -20418,7 +20722,7 @@
   {
     "demon_id": 681,
     "demon": "Fracture",
-    "position": 68,
+    "position": 69,
     "requirement": 66,
     "player": "[Ñ] Donei GD",
     "progress": 100
@@ -20426,7 +20730,7 @@
   {
     "demon_id": 681,
     "demon": "Fracture",
-    "position": 68,
+    "position": 69,
     "requirement": 66,
     "player": "[ARMED] zRickyy",
     "progress": 100
@@ -20434,7 +20738,7 @@
   {
     "demon_id": 681,
     "demon": "Fracture",
-    "position": 68,
+    "position": 69,
     "requirement": 66,
     "player": "[FOWL] geodom",
     "progress": 100
@@ -20442,7 +20746,7 @@
   {
     "demon_id": 681,
     "demon": "Fracture",
-    "position": 68,
+    "position": 69,
     "requirement": 66,
     "player": "nik14k",
     "progress": 100
@@ -20450,7 +20754,7 @@
   {
     "demon_id": 681,
     "demon": "Fracture",
-    "position": 68,
+    "position": 69,
     "requirement": 66,
     "player": "dmsens",
     "progress": 100
@@ -20458,15 +20762,39 @@
   {
     "demon_id": 681,
     "demon": "Fracture",
-    "position": 68,
+    "position": 69,
     "requirement": 66,
     "player": "Tired",
     "progress": 100
   },
   {
+    "demon_id": 681,
+    "demon": "Fracture",
+    "position": 69,
+    "requirement": 66,
+    "player": "eternalluna",
+    "progress": 100
+  },
+  {
+    "demon_id": 681,
+    "demon": "Fracture",
+    "position": 69,
+    "requirement": 66,
+    "player": "lua",
+    "progress": 100
+  },
+  {
+    "demon_id": 681,
+    "demon": "Fracture",
+    "position": 69,
+    "requirement": 66,
+    "player": "krit",
+    "progress": 100
+  },
+  {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[67] Zoink",
     "progress": 100
@@ -20474,7 +20802,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[TCD] Trick",
     "progress": 100
@@ -20482,7 +20810,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "skzyl",
     "progress": 100
@@ -20490,7 +20818,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[SPQR] Paliermu",
     "progress": 100
@@ -20498,7 +20826,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "SnowBallerr",
     "progress": 100
@@ -20506,7 +20834,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "skycrab",
     "progress": 100
@@ -20514,7 +20842,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[WBT] Taiago",
     "progress": 100
@@ -20522,7 +20850,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[TRC] mishamaers",
     "progress": 100
@@ -20530,7 +20858,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[ASTIL] Theitha",
     "progress": 100
@@ -20538,7 +20866,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[RF] Johnlikediamond",
     "progress": 100
@@ -20546,7 +20874,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[ROAR] Flavyola64",
     "progress": 100
@@ -20554,7 +20882,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[OG B] Superjavicon",
     "progress": 100
@@ -20562,7 +20890,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[WBT] wPopoff",
     "progress": 100
@@ -20570,7 +20898,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[RF] It keeps your hands clean",
     "progress": 100
@@ -20578,7 +20906,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[WBT] Mizukii",
     "progress": 100
@@ -20586,7 +20914,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[THNDR] Thnnder",
     "progress": 100
@@ -20594,7 +20922,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "eastshark",
     "progress": 100
@@ -20602,7 +20930,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Franzy",
     "progress": 100
@@ -20610,7 +20938,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[FAX] Hover",
     "progress": 100
@@ -20618,7 +20946,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[USSR] GreenZz",
     "progress": 100
@@ -20626,7 +20954,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[EZ] GGonop",
     "progress": 100
@@ -20634,7 +20962,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[SARK] ddamian",
     "progress": 100
@@ -20642,7 +20970,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[QOG] Silpet",
     "progress": 100
@@ -20650,7 +20978,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[SARK] Netermind",
     "progress": 100
@@ -20658,7 +20986,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "bufbat",
     "progress": 100
@@ -20666,7 +20994,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[HOLA] XaviiiFG",
     "progress": 100
@@ -20674,7 +21002,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[IQB7] Breakcore",
     "progress": 100
@@ -20682,7 +21010,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[4MO] Abstract",
     "progress": 100
@@ -20690,7 +21018,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[4MO] fallen",
     "progress": 100
@@ -20698,7 +21026,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[SOS] Mikhail Krotov",
     "progress": 100
@@ -20706,7 +21034,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[OG] ColossalOrange",
     "progress": 100
@@ -20714,7 +21042,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[ЗСУ] kloone",
     "progress": 100
@@ -20722,7 +21050,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[REME] miguel6456",
     "progress": 100
@@ -20730,7 +21058,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[SEREK] lus",
     "progress": 100
@@ -20738,7 +21066,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[UCH] pizi",
     "progress": 100
@@ -20746,7 +21074,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[CHAT] sunix.",
     "progress": 100
@@ -20754,7 +21082,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[HOLA] zentic",
     "progress": 100
@@ -20762,7 +21090,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "AlecZD",
     "progress": 100
@@ -20770,7 +21098,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[OG B] teraaa",
     "progress": 100
@@ -20778,7 +21106,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[WBT] mariner",
     "progress": 100
@@ -20786,7 +21114,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[LOVE] PaulaGPe",
     "progress": 100
@@ -20794,7 +21122,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[ЗСУ] Rain",
     "progress": 100
@@ -20802,7 +21130,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "DeyLix",
     "progress": 100
@@ -20810,7 +21138,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "yanlici",
     "progress": 100
@@ -20818,7 +21146,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[V2] Illyes",
     "progress": 100
@@ -20826,7 +21154,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "MeQ8cNv43s6A",
     "progress": 100
@@ -20834,7 +21162,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[STACK] CHOOONK",
     "progress": 100
@@ -20842,7 +21170,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[GTS] Sharkified",
     "progress": 100
@@ -20850,7 +21178,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[TEC] Deez",
     "progress": 100
@@ -20858,7 +21186,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Conical",
     "progress": 100
@@ -20866,7 +21194,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[4MO] SagerR",
     "progress": 100
@@ -20874,7 +21202,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[CREAM] Serpentical",
     "progress": 100
@@ -20882,7 +21210,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[SARK] cudby",
     "progress": 100
@@ -20890,7 +21218,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[UFA] dovv1n",
     "progress": 100
@@ -20898,7 +21226,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Laniakea",
     "progress": 100
@@ -20906,7 +21234,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "itzhealer",
     "progress": 100
@@ -20914,7 +21242,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "LunarGhost30",
     "progress": 100
@@ -20922,7 +21250,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "donley",
     "progress": 100
@@ -20930,7 +21258,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "zGamerdude",
     "progress": 100
@@ -20938,7 +21266,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[FOWL] Hqmy",
     "progress": 100
@@ -20946,7 +21274,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Zont3x",
     "progress": 100
@@ -20954,7 +21282,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[ЗСУ] l1nxxd",
     "progress": 100
@@ -20962,7 +21290,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[SPQR] zStucc",
     "progress": 100
@@ -20970,7 +21298,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "xmercurylamp",
     "progress": 100
@@ -20978,7 +21306,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "fxpusphire",
     "progress": 100
@@ -20986,7 +21314,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "420noscopesugoi",
     "progress": 100
@@ -20994,7 +21322,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[ZOBRO] Kot",
     "progress": 100
@@ -21002,7 +21330,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[4MO] itzdony",
     "progress": 100
@@ -21010,7 +21338,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[POSTY] Gre4a",
     "progress": 100
@@ -21018,7 +21346,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "stipgmd",
     "progress": 100
@@ -21026,7 +21354,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[RF] Fxrmula",
     "progress": 100
@@ -21034,7 +21362,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[LARP] youngs6",
     "progress": 100
@@ -21042,7 +21370,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "YeldA",
     "progress": 100
@@ -21050,7 +21378,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Tired",
     "progress": 100
@@ -21058,7 +21386,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[MEALY] zLevii",
     "progress": 100
@@ -21066,7 +21394,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "fungybaws",
     "progress": 100
@@ -21074,7 +21402,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[COMET] linayru",
     "progress": 100
@@ -21082,7 +21410,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[YAHO] Baeru",
     "progress": 100
@@ -21090,7 +21418,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "owlyy",
     "progress": 100
@@ -21098,7 +21426,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[tq] Flashl3ang",
     "progress": 100
@@ -21106,7 +21434,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Rusty111",
     "progress": 100
@@ -21114,7 +21442,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "TimsTeam",
     "progress": 100
@@ -21122,7 +21450,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[CFKYY] Kyy",
     "progress": 100
@@ -21130,7 +21458,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "StarFall",
     "progress": 100
@@ -21138,7 +21466,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "dizbro",
     "progress": 100
@@ -21146,7 +21474,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[ARMED] metis86",
     "progress": 100
@@ -21154,7 +21482,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "M1nerB0ss",
     "progress": 100
@@ -21162,7 +21490,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[KAN] Hypa",
     "progress": 100
@@ -21170,7 +21498,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[BHO] Cookie",
     "progress": 100
@@ -21178,7 +21506,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "T4G",
     "progress": 100
@@ -21186,7 +21514,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[HOLA] weyolll3",
     "progress": 100
@@ -21194,7 +21522,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Dustabounds",
     "progress": 100
@@ -21202,7 +21530,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Florned",
     "progress": 100
@@ -21210,7 +21538,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[IQFM] Bird",
     "progress": 100
@@ -21218,7 +21546,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[BUDDY] btbo",
     "progress": 100
@@ -21226,7 +21554,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "seth",
     "progress": 100
@@ -21234,7 +21562,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[OG] cbrem",
     "progress": 100
@@ -21242,7 +21570,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[MAOR] Syrcx",
     "progress": 100
@@ -21250,7 +21578,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "LuckyL4",
     "progress": 100
@@ -21258,7 +21586,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[AURA] Rosey",
     "progress": 100
@@ -21266,7 +21594,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Slaughter",
     "progress": 100
@@ -21274,7 +21602,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "(SWEDEN) LOL123",
     "progress": 100
@@ -21282,7 +21610,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[HERVE] niwox",
     "progress": 100
@@ -21290,7 +21618,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "TrollFaceGaming",
     "progress": 100
@@ -21298,7 +21626,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "VeturnusGDMC",
     "progress": 100
@@ -21306,7 +21634,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "SashaKray",
     "progress": 100
@@ -21314,7 +21642,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[MEALY] oozerdonkey",
     "progress": 100
@@ -21322,7 +21650,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[ILUV] tea",
     "progress": 100
@@ -21330,7 +21658,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[OG] ProudGiraffe311",
     "progress": 100
@@ -21338,7 +21666,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[didy] vsce",
     "progress": 100
@@ -21346,7 +21674,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[SEREK] strikk",
     "progress": 100
@@ -21354,7 +21682,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[OG] GodGamer2442",
     "progress": 100
@@ -21362,7 +21690,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "IBeatRetray",
     "progress": 100
@@ -21370,7 +21698,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[SEREK] Sharpzera",
     "progress": 100
@@ -21378,7 +21706,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "NikitaTyryskin",
     "progress": 100
@@ -21386,7 +21714,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[Hi] Nexel",
     "progress": 100
@@ -21394,7 +21722,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "birii",
     "progress": 100
@@ -21402,7 +21730,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[RF] turtle",
     "progress": 100
@@ -21410,7 +21738,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[Hi] ByteLaw",
     "progress": 100
@@ -21418,7 +21746,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "numi",
     "progress": 100
@@ -21426,7 +21754,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "npesta",
     "progress": 100
@@ -21434,7 +21762,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Spoken",
     "progress": 100
@@ -21442,7 +21770,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "maxer",
     "progress": 100
@@ -21450,7 +21778,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[TRIGO] takma",
     "progress": 100
@@ -21458,7 +21786,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Bizdogg",
     "progress": 100
@@ -21466,7 +21794,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[CARL] Staticon",
     "progress": 100
@@ -21474,7 +21802,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Lamped",
     "progress": 100
@@ -21482,7 +21810,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "DravenPvP",
     "progress": 100
@@ -21490,7 +21818,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[ILUV] PoCle",
     "progress": 100
@@ -21498,7 +21826,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[OG] ScoffGD",
     "progress": 100
@@ -21506,7 +21834,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Lazer",
     "progress": 100
@@ -21514,7 +21842,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[103] Kole",
     "progress": 100
@@ -21522,7 +21850,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "medbum",
     "progress": 100
@@ -21530,7 +21858,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Dragomir Despić Desingerica",
     "progress": 100
@@ -21538,7 +21866,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[MKL] ennea",
     "progress": 100
@@ -21546,7 +21874,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[MAOR] Duv",
     "progress": 100
@@ -21554,7 +21882,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "theworldofme",
     "progress": 100
@@ -21562,7 +21890,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[아기엔더맨] karkito",
     "progress": 100
@@ -21570,7 +21898,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[WAWA] el terror de las coneras",
     "progress": 100
@@ -21578,7 +21906,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[WBT] Martin",
     "progress": 100
@@ -21586,7 +21914,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[RHTE] sharkyga",
     "progress": 100
@@ -21594,7 +21922,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[SEREK] Alemao",
     "progress": 100
@@ -21602,7 +21930,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[HOLA] wFishe",
     "progress": 100
@@ -21610,7 +21938,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "euphoria",
     "progress": 100
@@ -21618,7 +21946,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Water",
     "progress": 100
@@ -21626,7 +21954,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "bob_vi",
     "progress": 100
@@ -21634,7 +21962,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[ARMED] Trunki",
     "progress": 100
@@ -21642,7 +21970,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[CAFE] Calo",
     "progress": 100
@@ -21650,7 +21978,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[MEALY] LAMINGTON",
     "progress": 100
@@ -21658,7 +21986,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[SELL] EdwardUKraine",
     "progress": 100
@@ -21666,7 +21994,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "anibalplkz",
     "progress": 100
@@ -21674,7 +22002,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "audo;pi",
     "progress": 100
@@ -21682,7 +22010,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "dvleakkk",
     "progress": 100
@@ -21690,7 +22018,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "russo",
     "progress": 100
@@ -21698,7 +22026,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Chubs Dubs",
     "progress": 100
@@ -21706,7 +22034,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "lua",
     "progress": 100
@@ -21714,7 +22042,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Crimsonking22",
     "progress": 100
@@ -21722,7 +22050,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "SevenTrack",
     "progress": 100
@@ -21730,7 +22058,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "zepion",
     "progress": 100
@@ -21738,7 +22066,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[KRAS] Bleamer",
     "progress": 100
@@ -21746,7 +22074,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[HOLA] neutrark",
     "progress": 100
@@ -21754,7 +22082,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Laban",
     "progress": 100
@@ -21762,7 +22090,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "davi",
     "progress": 100
@@ -21770,7 +22098,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "RxpraEX",
     "progress": 100
@@ -21778,7 +22106,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "unwill",
     "progress": 100
@@ -21786,7 +22114,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "proxo",
     "progress": 100
@@ -21794,7 +22122,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "niiro",
     "progress": 100
@@ -21802,7 +22130,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Jigun",
     "progress": 100
@@ -21810,7 +22138,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Huzaza",
     "progress": 100
@@ -21818,7 +22146,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[PSL] vonic",
     "progress": 100
@@ -21826,7 +22154,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "ekleraaa",
     "progress": 100
@@ -21834,7 +22162,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[EVIL] naraoka",
     "progress": 100
@@ -21842,7 +22170,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[QUA] Girg",
     "progress": 100
@@ -21850,7 +22178,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Normal Person",
     "progress": 100
@@ -21858,7 +22186,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "salv",
     "progress": 100
@@ -21866,7 +22194,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[KSZ] hibachidefect",
     "progress": 100
@@ -21874,7 +22202,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[TRC] Falaet",
     "progress": 100
@@ -21882,7 +22210,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "carv",
     "progress": 100
@@ -21890,7 +22218,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Kroks",
     "progress": 100
@@ -21898,7 +22226,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Nooobus",
     "progress": 100
@@ -21906,7 +22234,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[Ñ] Freikz",
     "progress": 100
@@ -21914,7 +22242,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[tq] Xerahh",
     "progress": 100
@@ -21922,7 +22250,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[st] Technical",
     "progress": 100
@@ -21930,7 +22258,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[HOLA] nines",
     "progress": 100
@@ -21938,7 +22266,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "stoepit123",
     "progress": 100
@@ -21946,7 +22274,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[TTG] sebby",
     "progress": 100
@@ -21954,7 +22282,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "SpaceBK",
     "progress": 100
@@ -21962,7 +22290,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Zeronium",
     "progress": 100
@@ -21970,7 +22298,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[TCD] Doggie",
     "progress": 100
@@ -21978,7 +22306,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "sawyer",
     "progress": 100
@@ -21986,7 +22314,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "serkname",
     "progress": 100
@@ -21994,7 +22322,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "MateoGD04",
     "progress": 100
@@ -22002,7 +22330,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[FOWL] geodom",
     "progress": 100
@@ -22010,7 +22338,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[24hs] 金艮",
     "progress": 100
@@ -22018,7 +22346,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "ryanbcgd",
     "progress": 100
@@ -22026,7 +22354,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[HRYZ] Pluntix",
     "progress": 100
@@ -22034,7 +22362,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "mlgmario13",
     "progress": 100
@@ -22042,7 +22370,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "stylez",
     "progress": 100
@@ -22050,7 +22378,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "berth",
     "progress": 100
@@ -22058,7 +22386,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "an4rchh",
     "progress": 100
@@ -22066,7 +22394,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[OG B] kropka",
     "progress": 100
@@ -22074,7 +22402,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[SARK] Timy",
     "progress": 100
@@ -22082,7 +22410,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "peekingurangle",
     "progress": 100
@@ -22090,7 +22418,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Hudcrafter",
     "progress": 100
@@ -22098,7 +22426,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[SELL] Harhir",
     "progress": 100
@@ -22106,7 +22434,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Ares",
     "progress": 100
@@ -22114,7 +22442,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[POIKA] korb",
     "progress": 100
@@ -22122,7 +22450,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[SR53] icey",
     "progress": 100
@@ -22130,7 +22458,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[400] CuatrocientosYT",
     "progress": 100
@@ -22138,7 +22466,15 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
+    "requirement": 66,
+    "player": "Sape [GD]",
+    "progress": 100
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 70,
     "requirement": 66,
     "player": "TobGD",
     "progress": 100
@@ -22146,7 +22482,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Zeroxy",
     "progress": 100
@@ -22154,7 +22490,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "JaxonGD",
     "progress": 100
@@ -22162,7 +22498,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "TheOblivionGD",
     "progress": 100
@@ -22170,7 +22506,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[GTS] Gamingbyte",
     "progress": 100
@@ -22178,7 +22514,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[PULA] VxMasTeR",
     "progress": 100
@@ -22186,7 +22522,15 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
+    "requirement": 66,
+    "player": "F1sss",
+    "progress": 100
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 70,
     "requirement": 66,
     "player": "[MASI] graceful",
     "progress": 100
@@ -22194,7 +22538,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "AxolotlW",
     "progress": 100
@@ -22202,7 +22546,71 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
+    "requirement": 66,
+    "player": "1nsani1ty",
+    "progress": 100
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 70,
+    "requirement": 66,
+    "player": "[YTG] fwin",
+    "progress": 100
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 70,
+    "requirement": 66,
+    "player": "zSyzygy",
+    "progress": 100
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 70,
+    "requirement": 66,
+    "player": "Nejou",
+    "progress": 100
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 70,
+    "requirement": 66,
+    "player": "DarkTD",
+    "progress": 100
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 70,
+    "requirement": 66,
+    "player": "[PULA] Merio",
+    "progress": 100
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 70,
+    "requirement": 66,
+    "player": "[ETPS] rain",
+    "progress": 100
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 70,
+    "requirement": 66,
+    "player": "[아기엔더맨] Blebae",
+    "progress": 100
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 70,
     "requirement": 66,
     "player": "Crabicle",
     "progress": 98
@@ -22210,7 +22618,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "DQATARJ",
     "progress": 98
@@ -22218,7 +22626,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Crazydash17",
     "progress": 98
@@ -22226,7 +22634,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[HERVE] zMatmon",
     "progress": 92
@@ -22234,7 +22642,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Nightmarri",
     "progress": 91
@@ -22242,7 +22650,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[APPLE] Batthumbs",
     "progress": 88
@@ -22250,7 +22658,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[SIVAR] S4zerix",
     "progress": 88
@@ -22258,7 +22666,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[FOWL] Erantic",
     "progress": 88
@@ -22266,7 +22674,15 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
+    "requirement": 66,
+    "player": "JameSharpener",
+    "progress": 85
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 70,
     "requirement": 66,
     "player": "[WCL] LilNuh25",
     "progress": 83
@@ -22274,7 +22690,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "xyiuyo",
     "progress": 83
@@ -22282,7 +22698,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[OG B] loliwz",
     "progress": 81
@@ -22290,15 +22706,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
-    "requirement": 66,
-    "player": "Nejou",
-    "progress": 80
-  },
-  {
-    "demon_id": 464,
-    "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[MONDÁ] Staixz",
     "progress": 79
@@ -22306,7 +22714,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "galagzee",
     "progress": 78
@@ -22314,7 +22722,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Jarno",
     "progress": 78
@@ -22322,7 +22730,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Tami",
     "progress": 77
@@ -22330,7 +22738,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Sausage Candles",
     "progress": 77
@@ -22338,7 +22746,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[BLKHL] Lexxxy",
     "progress": 77
@@ -22346,7 +22754,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[CBFA] ejgpsyched",
     "progress": 75
@@ -22354,7 +22762,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Maciejeczka",
     "progress": 75
@@ -22362,7 +22770,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[COMET] Lemon!",
     "progress": 75
@@ -22370,7 +22778,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[CONCO] Nero",
     "progress": 71
@@ -22378,7 +22786,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "ElPepinooXGD",
     "progress": 71
@@ -22386,7 +22794,15 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
+    "requirement": 66,
+    "player": "jackf",
+    "progress": 71
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 70,
     "requirement": 66,
     "player": "Jmgd",
     "progress": 70
@@ -22394,7 +22810,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Cewz",
     "progress": 67
@@ -22402,7 +22818,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "NMSpeedruns",
     "progress": 67
@@ -22410,7 +22826,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "NiklasOT",
     "progress": 67
@@ -22418,7 +22834,7 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "[MAOR] abb2k",
     "progress": 66
@@ -22426,15 +22842,23 @@
   {
     "demon_id": 464,
     "demon": "poocubed",
-    "position": 69,
+    "position": 70,
     "requirement": 66,
     "player": "Rystical",
     "progress": 66
   },
   {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 70,
+    "requirement": 66,
+    "player": "jf",
+    "progress": 66
+  },
+  {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[HOLA] weyolll3",
     "progress": 100
@@ -22442,7 +22866,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[ETPS] rain",
     "progress": 100
@@ -22450,7 +22874,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[ASTIL] manu",
     "progress": 100
@@ -22458,7 +22882,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[MAOR] Syrcx",
     "progress": 100
@@ -22466,7 +22890,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[FOWL] geodom",
     "progress": 100
@@ -22474,7 +22898,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[JUICE] penpenliddy",
     "progress": 100
@@ -22482,7 +22906,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[RF] turtle",
     "progress": 100
@@ -22490,7 +22914,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[ILUV] funfire34",
     "progress": 100
@@ -22498,7 +22922,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "rediio",
     "progress": 100
@@ -22506,7 +22930,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[MERWO] Byleom",
     "progress": 100
@@ -22514,7 +22938,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[UCH] pizi",
     "progress": 100
@@ -22522,7 +22946,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[MSRY] tux",
     "progress": 100
@@ -22530,7 +22954,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[didy] vsce",
     "progress": 100
@@ -22538,7 +22962,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[TCC] Vikings",
     "progress": 100
@@ -22546,7 +22970,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "Fandom",
     "progress": 100
@@ -22554,7 +22978,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "Fexty",
     "progress": 100
@@ -22562,7 +22986,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[SEREK] lus",
     "progress": 100
@@ -22570,7 +22994,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[GMT] mancersito",
     "progress": 100
@@ -22578,7 +23002,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[SARK] Bamvie",
     "progress": 100
@@ -22586,7 +23010,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[ROAR] Flavyola64",
     "progress": 100
@@ -22594,7 +23018,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[PULA] VxMasTeR",
     "progress": 100
@@ -22602,7 +23026,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[MOON] Karma",
     "progress": 100
@@ -22610,7 +23034,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "peekingurangle",
     "progress": 100
@@ -22618,7 +23042,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "Conical",
     "progress": 100
@@ -22626,7 +23050,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "Chubs Dubs",
     "progress": 100
@@ -22634,7 +23058,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[VOPRC] DaDemonator",
     "progress": 100
@@ -22642,7 +23066,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "MeQ8cNv43s6A",
     "progress": 100
@@ -22650,7 +23074,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "GuitGuit",
     "progress": 100
@@ -22658,7 +23082,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "Slaughter",
     "progress": 100
@@ -22666,7 +23090,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[ILUV] GDmuno",
     "progress": 100
@@ -22674,7 +23098,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[PULA] Goanga",
     "progress": 100
@@ -22682,7 +23106,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "DarkTD",
     "progress": 100
@@ -22690,7 +23114,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[SARK] Timy",
     "progress": 100
@@ -22698,7 +23122,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[GTS] Sharkified",
     "progress": 100
@@ -22706,7 +23130,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[LASER] Laysah",
     "progress": 100
@@ -22714,7 +23138,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "Etherealogy",
     "progress": 100
@@ -22722,7 +23146,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "Lukie",
     "progress": 100
@@ -22730,7 +23154,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[OG] goobs",
     "progress": 100
@@ -22738,7 +23162,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "Tired",
     "progress": 100
@@ -22746,7 +23170,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[OG] ScoffGD",
     "progress": 100
@@ -22754,7 +23178,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[TMG] Scotchtape",
     "progress": 100
@@ -22762,7 +23186,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "wavy",
     "progress": 100
@@ -22770,7 +23194,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[MEALY] zLevii",
     "progress": 100
@@ -22778,7 +23202,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "Zekidash [PR]",
     "progress": 100
@@ -22786,7 +23210,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[SEREK] Felps_2106",
     "progress": 100
@@ -22794,7 +23218,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[RHTE] sharkyga",
     "progress": 100
@@ -22802,7 +23226,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "RuinerUG",
     "progress": 100
@@ -22810,7 +23234,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[RF] Johnlikediamond",
     "progress": 100
@@ -22818,7 +23242,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "Arc",
     "progress": 100
@@ -22826,7 +23250,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[CBFA] ejgpsyched",
     "progress": 100
@@ -22834,7 +23258,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "YeldA",
     "progress": 100
@@ -22842,7 +23266,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[LTF] GalwayGuy",
     "progress": 100
@@ -22850,7 +23274,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[YAHO] DNM121",
     "progress": 100
@@ -22858,7 +23282,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "F1sss",
     "progress": 100
@@ -22866,7 +23290,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "vicente",
     "progress": 100
@@ -22874,7 +23298,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[SARK] 1ssky",
     "progress": 100
@@ -22882,7 +23306,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "sawyer",
     "progress": 100
@@ -22890,7 +23314,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[HOLA] naro",
     "progress": 100
@@ -22898,7 +23322,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[JORB] Zephronox",
     "progress": 100
@@ -22906,7 +23330,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "Rain",
     "progress": 100
@@ -22914,7 +23338,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "Senko",
     "progress": 100
@@ -22922,7 +23346,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "Dzends",
     "progress": 100
@@ -22930,7 +23354,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[STACK] CHOOONK",
     "progress": 100
@@ -22938,7 +23362,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "spookkd",
     "progress": 100
@@ -22946,7 +23370,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[WBT] Mizukii",
     "progress": 100
@@ -22954,7 +23378,31 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
+    "requirement": 63,
+    "player": "MateoGD04",
+    "progress": 100
+  },
+  {
+    "demon_id": 683,
+    "demon": "Calibrate",
+    "position": 71,
+    "requirement": 63,
+    "player": "zGrxzzly",
+    "progress": 100
+  },
+  {
+    "demon_id": 683,
+    "demon": "Calibrate",
+    "position": 71,
+    "requirement": 63,
+    "player": "[HELLA] Baprag",
+    "progress": 100
+  },
+  {
+    "demon_id": 683,
+    "demon": "Calibrate",
+    "position": 71,
     "requirement": 63,
     "player": "[KAN] Hypa",
     "progress": 94
@@ -22962,7 +23410,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[CHIL] EmeraldKnight",
     "progress": 84
@@ -22970,7 +23418,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "VikzGD",
     "progress": 81
@@ -22978,7 +23426,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "Lukrasz",
     "progress": 76
@@ -22986,7 +23434,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "maxyop3",
     "progress": 73
@@ -22994,7 +23442,7 @@
   {
     "demon_id": 683,
     "demon": "Calibrate",
-    "position": 70,
+    "position": 71,
     "requirement": 63,
     "player": "[BGDL] soletki",
     "progress": 63
@@ -23002,7 +23450,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[JOB] ViperVenom95",
     "progress": 100
@@ -23010,7 +23458,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[67] Zoink",
     "progress": 100
@@ -23018,7 +23466,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[THNDR] Thnnder",
     "progress": 100
@@ -23026,7 +23474,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "Splingxz",
     "progress": 100
@@ -23034,7 +23482,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[TCD] Trick",
     "progress": 100
@@ -23042,7 +23490,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "SnowBallerr",
     "progress": 100
@@ -23050,7 +23498,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "NordstromUSA",
     "progress": 100
@@ -23058,7 +23506,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[DTC] nicor77",
     "progress": 100
@@ -23066,7 +23514,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "PersonHuman42",
     "progress": 100
@@ -23074,7 +23522,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "Laniakea",
     "progress": 100
@@ -23082,7 +23530,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "theworldofme",
     "progress": 100
@@ -23090,7 +23538,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[SPQR] brite",
     "progress": 100
@@ -23098,7 +23546,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[TRIGO] takma",
     "progress": 100
@@ -23106,7 +23554,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "TFIBB",
     "progress": 100
@@ -23114,7 +23562,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[SEREK] Kramujo",
     "progress": 100
@@ -23122,7 +23570,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "itzhealer",
     "progress": 100
@@ -23130,7 +23578,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[HOLA] Baker",
     "progress": 100
@@ -23138,7 +23586,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[BHO] Cookie",
     "progress": 100
@@ -23146,7 +23594,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "sawyer",
     "progress": 100
@@ -23154,7 +23602,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[OG B] teraaa",
     "progress": 100
@@ -23162,7 +23610,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "eastshark",
     "progress": 100
@@ -23170,7 +23618,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[SARK] Netermind",
     "progress": 100
@@ -23178,7 +23626,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[WBT] Mizukii",
     "progress": 100
@@ -23186,7 +23634,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[OG] ColossalOrange",
     "progress": 100
@@ -23194,7 +23642,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[FOWL] Hqmy",
     "progress": 100
@@ -23202,7 +23650,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[MEALY] zLevii",
     "progress": 100
@@ -23210,7 +23658,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[SEREK] gotsmile",
     "progress": 100
@@ -23218,7 +23666,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[Hi] Nexel",
     "progress": 100
@@ -23226,7 +23674,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[FAX] Hover",
     "progress": 100
@@ -23234,7 +23682,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[TEC] Deez",
     "progress": 100
@@ -23242,7 +23690,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[4MO] fallen",
     "progress": 100
@@ -23250,7 +23698,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "Komet01",
     "progress": 100
@@ -23258,7 +23706,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[WBT] wPopoff",
     "progress": 100
@@ -23266,7 +23714,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[ЗСУ] l1nxxd",
     "progress": 100
@@ -23274,7 +23722,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[SGD] CookieIsMine",
     "progress": 100
@@ -23282,7 +23730,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[CREAM] Serpentical",
     "progress": 100
@@ -23290,7 +23738,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[IQB7] Breakcore",
     "progress": 100
@@ -23298,7 +23746,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[SOS] Mikhail Krotov",
     "progress": 100
@@ -23306,7 +23754,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[EZ] GGonop",
     "progress": 100
@@ -23314,7 +23762,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[HOLA] RubenChuGD",
     "progress": 100
@@ -23322,7 +23770,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "donley",
     "progress": 100
@@ -23330,7 +23778,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[SARK] cudby",
     "progress": 100
@@ -23338,7 +23786,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[ЗСУ] whfyre",
     "progress": 100
@@ -23346,7 +23794,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[ЗСУ] kloone",
     "progress": 100
@@ -23354,7 +23802,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[GTS] Sharkified",
     "progress": 100
@@ -23362,7 +23810,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[TCC] Vikings",
     "progress": 100
@@ -23370,7 +23818,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "w5678rr",
     "progress": 100
@@ -23378,7 +23826,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "ItzQueney",
     "progress": 100
@@ -23386,7 +23834,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "Finny06",
     "progress": 100
@@ -23394,7 +23842,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "KJ8ishere",
     "progress": 100
@@ -23402,7 +23850,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[MDT] Raffox",
     "progress": 100
@@ -23410,7 +23858,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[FLEUR] DraxitIII",
     "progress": 100
@@ -23418,7 +23866,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[REME] miguel6456",
     "progress": 100
@@ -23426,7 +23874,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[OG] BudgieParrot",
     "progress": 100
@@ -23434,7 +23882,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[USSR] lanx",
     "progress": 100
@@ -23442,7 +23890,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[WBT] hstorm",
     "progress": 100
@@ -23450,7 +23898,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[LASER] Laysah",
     "progress": 100
@@ -23458,7 +23906,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "rediio",
     "progress": 100
@@ -23466,7 +23914,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "Uni",
     "progress": 100
@@ -23474,7 +23922,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "W1nda",
     "progress": 100
@@ -23482,7 +23930,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "xmercurylamp",
     "progress": 100
@@ -23490,7 +23938,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "noxell",
     "progress": 100
@@ -23498,7 +23946,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "!axcy",
     "progress": 100
@@ -23506,7 +23954,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "vicente",
     "progress": 100
@@ -23514,7 +23962,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "devan24",
     "progress": 100
@@ -23522,7 +23970,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[MOOSE] airless",
     "progress": 100
@@ -23530,7 +23978,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[st] Albert",
     "progress": 100
@@ -23538,7 +23986,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "Sm1leX",
     "progress": 100
@@ -23546,7 +23994,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[WBT] Martin",
     "progress": 100
@@ -23554,7 +24002,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[VOID] CoolBonnie1987",
     "progress": 100
@@ -23562,7 +24010,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "bims",
     "progress": 100
@@ -23570,7 +24018,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[WBT] mariner",
     "progress": 100
@@ -23578,7 +24026,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "Slaughter",
     "progress": 100
@@ -23586,7 +24034,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "ffzer",
     "progress": 100
@@ -23594,7 +24042,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[HOLA] weyolll3",
     "progress": 100
@@ -23602,7 +24050,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[Hi] ByteLaw",
     "progress": 100
@@ -23610,7 +24058,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[ЗСУ] Rain",
     "progress": 100
@@ -23618,7 +24066,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "eternalluna",
     "progress": 100
@@ -23626,7 +24074,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[HERVE] Sharkiye",
     "progress": 100
@@ -23634,7 +24082,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[ROAR] coubitic",
     "progress": 100
@@ -23642,7 +24090,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[ASTIL] matern",
     "progress": 100
@@ -23650,7 +24098,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[IG] Achernus",
     "progress": 100
@@ -23658,7 +24106,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "Bennu",
     "progress": 100
@@ -23666,7 +24114,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[MOON] Karma",
     "progress": 100
@@ -23674,7 +24122,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "(SWEDEN) LOL123",
     "progress": 100
@@ -23682,7 +24130,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[UCH] pizi",
     "progress": 100
@@ -23690,7 +24138,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "FornaxGD",
     "progress": 100
@@ -23698,7 +24146,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "apu",
     "progress": 100
@@ -23706,7 +24154,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[아기엔더맨] karkito",
     "progress": 100
@@ -23714,7 +24162,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[QOG] maxidlo147",
     "progress": 100
@@ -23722,7 +24170,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[POIKA] korb",
     "progress": 100
@@ -23730,7 +24178,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "MatsuoIsHere",
     "progress": 100
@@ -23738,7 +24186,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[BLKHL] AjayGD",
     "progress": 100
@@ -23746,7 +24194,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[OG] ScoffGD",
     "progress": 100
@@ -23754,7 +24202,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "anibalplkz",
     "progress": 100
@@ -23762,7 +24210,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[PSL] vonic",
     "progress": 100
@@ -23770,7 +24218,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "Cauã GD",
     "progress": 100
@@ -23778,7 +24226,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[FLAT] Toxical",
     "progress": 100
@@ -23786,7 +24234,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[24hs] 金艮",
     "progress": 100
@@ -23794,7 +24242,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[RF] turtle",
     "progress": 100
@@ -23802,7 +24250,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[POIKA] nebular",
     "progress": 100
@@ -23810,7 +24258,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "XBelugaX",
     "progress": 100
@@ -23818,7 +24266,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[ILUV] PoCle",
     "progress": 100
@@ -23826,7 +24274,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "zGamerdude",
     "progress": 100
@@ -23834,7 +24282,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[MAOR] Syrcx",
     "progress": 100
@@ -23842,7 +24290,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "Wain",
     "progress": 100
@@ -23850,7 +24298,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "russo",
     "progress": 100
@@ -23858,7 +24306,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[24hs] HamsterPlayz",
     "progress": 100
@@ -23866,7 +24314,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "MateoGD04",
     "progress": 100
@@ -23874,7 +24322,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "Ninde",
     "progress": 100
@@ -23882,7 +24330,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "Conical",
     "progress": 100
@@ -23890,7 +24338,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[OBCD] Oblivionus",
     "progress": 100
@@ -23898,7 +24346,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[RF] It keeps your hands clean",
     "progress": 100
@@ -23906,7 +24354,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[PULA] VxMasTeR",
     "progress": 100
@@ -23914,7 +24362,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[AURA] Hollan",
     "progress": 100
@@ -23922,7 +24370,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[IQB7] Whizkid05",
     "progress": 100
@@ -23930,7 +24378,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "SashaKray",
     "progress": 100
@@ -23938,7 +24386,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "corzeals1324",
     "progress": 100
@@ -23946,7 +24394,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "tanner",
     "progress": 100
@@ -23954,7 +24402,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[HERVE] Cryostazz",
     "progress": 100
@@ -23962,7 +24410,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "Nequit",
     "progress": 100
@@ -23970,7 +24418,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "KuMi",
     "progress": 100
@@ -23978,7 +24426,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[SELL] Harhir",
     "progress": 100
@@ -23986,7 +24434,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "ohohhhooooooohhhhhhhhhwow",
     "progress": 100
@@ -23994,7 +24442,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[SELL] EdwardUKraine",
     "progress": 100
@@ -24002,7 +24450,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[ILUV] GDmuno",
     "progress": 100
@@ -24010,7 +24458,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[ЗСУ] jerpa",
     "progress": 100
@@ -24018,7 +24466,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[FEBE] Petalite",
     "progress": 100
@@ -24026,7 +24474,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "Trolly1",
     "progress": 100
@@ -24034,7 +24482,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[HRYZ] Pluntix",
     "progress": 100
@@ -24042,7 +24490,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "syrisGD",
     "progress": 98
@@ -24050,7 +24498,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "Pixeldragon42",
     "progress": 92
@@ -24058,7 +24506,15 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
+    "requirement": 75,
+    "player": "iruseu",
+    "progress": 87
+  },
+  {
+    "demon_id": 487,
+    "demon": "MINUSdry",
+    "position": 72,
     "requirement": 75,
     "player": "KlimK",
     "progress": 83
@@ -24066,15 +24522,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
-    "requirement": 75,
-    "player": "iruseu",
-    "progress": 81
-  },
-  {
-    "demon_id": 487,
-    "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[GTS] Gamingbyte",
     "progress": 80
@@ -24082,7 +24530,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "Cymmas",
     "progress": 78
@@ -24090,7 +24538,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "Tami",
     "progress": 78
@@ -24098,7 +24546,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[VDL] TunDHra",
     "progress": 77
@@ -24106,7 +24554,7 @@
   {
     "demon_id": 487,
     "demon": "MINUSdry",
-    "position": 71,
+    "position": 72,
     "requirement": 75,
     "player": "[UFA] dovv1n",
     "progress": 77
@@ -24114,7 +24562,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[67] Zoink",
     "progress": 100
@@ -24122,7 +24570,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[THNDR] Thnnder",
     "progress": 100
@@ -24130,7 +24578,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[TCD] Trick",
     "progress": 100
@@ -24138,7 +24586,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[WBT] wPopoff",
     "progress": 100
@@ -24146,7 +24594,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[910] Stefan Boss",
     "progress": 100
@@ -24154,7 +24602,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "Raluca",
     "progress": 100
@@ -24162,7 +24610,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[YAHO] Seturan",
     "progress": 100
@@ -24170,7 +24618,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[SPQR] brite",
     "progress": 100
@@ -24178,7 +24626,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[FRIXO] freksolereal",
     "progress": 100
@@ -24186,7 +24634,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "rediio",
     "progress": 100
@@ -24194,7 +24642,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[TCC] Vikings",
     "progress": 100
@@ -24202,7 +24650,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "donley",
     "progress": 100
@@ -24210,7 +24658,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[WBT] Mizukii",
     "progress": 100
@@ -24218,7 +24666,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[EZ] GGonop",
     "progress": 100
@@ -24226,7 +24674,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[MEALY] zLevii",
     "progress": 100
@@ -24234,7 +24682,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[CAFE] GuillExprex52",
     "progress": 100
@@ -24242,7 +24690,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[FAX] Hover",
     "progress": 100
@@ -24250,7 +24698,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[DLNW] Dice88",
     "progress": 100
@@ -24258,7 +24706,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[COMET] Kaza",
     "progress": 100
@@ -24266,7 +24714,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[24hs] HamsterPlayz",
     "progress": 100
@@ -24274,7 +24722,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "bims",
     "progress": 100
@@ -24282,7 +24730,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[ILUV] agonom",
     "progress": 100
@@ -24290,7 +24738,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "NordstromUSA",
     "progress": 100
@@ -24298,7 +24746,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "Ooma",
     "progress": 100
@@ -24306,7 +24754,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[WBT] hstorm",
     "progress": 100
@@ -24314,7 +24762,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "HaloZombies",
     "progress": 100
@@ -24322,7 +24770,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "xmercurylamp",
     "progress": 100
@@ -24330,7 +24778,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "Uni",
     "progress": 100
@@ -24338,7 +24786,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[SARK] CookedPugs",
     "progress": 100
@@ -24346,7 +24794,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "MatsuoIsHere",
     "progress": 100
@@ -24354,7 +24802,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[Hi] ByteLaw",
     "progress": 100
@@ -24362,7 +24810,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[IG] Achernus",
     "progress": 100
@@ -24370,7 +24818,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "npesta",
     "progress": 100
@@ -24378,7 +24826,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[st] Albert",
     "progress": 100
@@ -24386,7 +24834,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "SealLover",
     "progress": 100
@@ -24394,7 +24842,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "sawyer",
     "progress": 100
@@ -24402,7 +24850,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "NJGhost9",
     "progress": 100
@@ -24410,7 +24858,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "Fexty",
     "progress": 100
@@ -24418,7 +24866,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[RR] Magmeta",
     "progress": 84
@@ -24426,7 +24874,7 @@
   {
     "demon_id": 558,
     "demon": "Deadlier Clubstep",
-    "position": 72,
+    "position": 73,
     "requirement": 70,
     "player": "[TARIQ] Billzer",
     "progress": 76
@@ -24434,7 +24882,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "cobrablitz",
     "progress": 100
@@ -24442,7 +24890,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "SnowBallerr",
     "progress": 100
@@ -24450,7 +24898,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[67] Zoink",
     "progress": 100
@@ -24458,7 +24906,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "skzyl",
     "progress": 100
@@ -24466,7 +24914,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[THNDR] Thnnder",
     "progress": 100
@@ -24474,7 +24922,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[FAX] Hover",
     "progress": 100
@@ -24482,7 +24930,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "Axinity",
     "progress": 100
@@ -24490,7 +24938,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "Scep!",
     "progress": 100
@@ -24498,7 +24946,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "ezvie",
     "progress": 100
@@ -24506,7 +24954,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "TFIBB",
     "progress": 100
@@ -24514,7 +24962,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[Ñ] daky",
     "progress": 100
@@ -24522,7 +24970,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[103] Kole",
     "progress": 100
@@ -24530,7 +24978,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "Bigthunder556",
     "progress": 100
@@ -24538,7 +24986,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "TigerXero",
     "progress": 100
@@ -24546,7 +24994,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[WBT] wPopoff",
     "progress": 100
@@ -24554,7 +25002,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[Hi] Nexel",
     "progress": 100
@@ -24562,7 +25010,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[JOB] stillsouless",
     "progress": 100
@@ -24570,7 +25018,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[400] CuatrocientosYT",
     "progress": 100
@@ -24578,7 +25026,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "Audiam",
     "progress": 100
@@ -24586,7 +25034,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[910] Stefan Boss",
     "progress": 100
@@ -24594,7 +25042,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[TCD] Trick",
     "progress": 100
@@ -24602,7 +25050,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[HOLA] Klopz",
     "progress": 100
@@ -24610,7 +25058,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[DTC] Tombstone",
     "progress": 100
@@ -24618,7 +25066,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "Samot",
     "progress": 100
@@ -24626,7 +25074,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "Castro 13GD",
     "progress": 100
@@ -24634,7 +25082,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[BHO] Opera",
     "progress": 100
@@ -24642,7 +25090,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[SARK] Netermind",
     "progress": 100
@@ -24650,7 +25098,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[LASER] Laysah",
     "progress": 100
@@ -24658,7 +25106,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[ЗСУ] jerpa",
     "progress": 100
@@ -24666,7 +25114,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[ARMED] notd4n1",
     "progress": 100
@@ -24674,7 +25122,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "Dan2D",
     "progress": 100
@@ -24682,7 +25130,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[SEREK] lus",
     "progress": 100
@@ -24690,7 +25138,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[OG B] Superjavicon",
     "progress": 100
@@ -24698,7 +25146,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[HOLA] Wity",
     "progress": 100
@@ -24706,7 +25154,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[SEREK] gotsmile",
     "progress": 100
@@ -24714,7 +25162,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "PersonHuman42",
     "progress": 100
@@ -24722,7 +25170,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[GTS] Sharkified",
     "progress": 100
@@ -24730,7 +25178,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[RF] It keeps your hands clean",
     "progress": 100
@@ -24738,7 +25186,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[HOLA] weyolll3",
     "progress": 100
@@ -24746,7 +25194,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[SPQR] Paliermu",
     "progress": 100
@@ -24754,7 +25202,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "truegaymer",
     "progress": 100
@@ -24762,7 +25210,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "maxer",
     "progress": 100
@@ -24770,7 +25218,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "Dezstro",
     "progress": 100
@@ -24778,7 +25226,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[CREAM] Serpentical",
     "progress": 100
@@ -24786,7 +25234,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[TCD] Cursed",
     "progress": 100
@@ -24794,7 +25242,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[JOB] ViperVenom95",
     "progress": 100
@@ -24802,7 +25250,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[LARP] littlegiggle",
     "progress": 100
@@ -24810,7 +25258,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "itzhealer",
     "progress": 100
@@ -24818,7 +25266,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[HOLA] DrexX16",
     "progress": 100
@@ -24826,7 +25274,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[MDT] Raffox",
     "progress": 100
@@ -24834,7 +25282,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[MDT] Foxbro",
     "progress": 100
@@ -24842,7 +25290,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[VOID] powersplit",
     "progress": 100
@@ -24850,7 +25298,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[MEALY] zLevii",
     "progress": 100
@@ -24858,7 +25306,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[SARK] cudby",
     "progress": 100
@@ -24866,7 +25314,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[MEALY] KrNati",
     "progress": 100
@@ -24874,7 +25322,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[BHO] Cookie",
     "progress": 100
@@ -24882,7 +25330,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "AlecZD",
     "progress": 100
@@ -24890,7 +25338,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "eastshark",
     "progress": 100
@@ -24898,7 +25346,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "jilna",
     "progress": 100
@@ -24906,7 +25354,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "celineity",
     "progress": 100
@@ -24914,7 +25362,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "Slaughter",
     "progress": 100
@@ -24922,7 +25370,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[FRIXO] freksolereal",
     "progress": 100
@@ -24930,7 +25378,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[WBT] Mizukii",
     "progress": 100
@@ -24938,7 +25386,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "e-Bread",
     "progress": 100
@@ -24946,7 +25394,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[ARMED] zRickyy",
     "progress": 100
@@ -24954,7 +25402,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "eksdulgation",
     "progress": 100
@@ -24962,7 +25410,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[BLKHL] AjayGD",
     "progress": 100
@@ -24970,7 +25418,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "xmercurylamp",
     "progress": 100
@@ -24978,7 +25426,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "strayW",
     "progress": 100
@@ -24986,7 +25434,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "zGamerdude",
     "progress": 100
@@ -24994,7 +25442,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "samtaylor",
     "progress": 100
@@ -25002,7 +25450,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[TCC] Vikings",
     "progress": 100
@@ -25010,7 +25458,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "vicente",
     "progress": 100
@@ -25018,7 +25466,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[UCH] pizi",
     "progress": 100
@@ -25026,7 +25474,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "Untise",
     "progress": 100
@@ -25034,7 +25482,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[!MUTE] piesy",
     "progress": 100
@@ -25042,7 +25490,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[MEALY] LAMINGTON",
     "progress": 100
@@ -25050,7 +25498,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "AthenaFloof",
     "progress": 100
@@ -25058,7 +25506,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "Thusky",
     "progress": 100
@@ -25066,7 +25514,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "Tired",
     "progress": 100
@@ -25074,7 +25522,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[SJL] Hipo",
     "progress": 100
@@ -25082,7 +25530,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "Almier",
     "progress": 100
@@ -25090,7 +25538,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "donley",
     "progress": 100
@@ -25098,7 +25546,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "JabkaGD",
     "progress": 100
@@ -25106,7 +25554,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[PULA] VxMasTeR",
     "progress": 100
@@ -25114,7 +25562,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[HELLA] Baprag",
     "progress": 100
@@ -25122,7 +25570,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "KJ8ishere",
     "progress": 100
@@ -25130,7 +25578,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[BUDDY] xaern",
     "progress": 100
@@ -25138,7 +25586,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[OG] ScoffGD",
     "progress": 100
@@ -25146,7 +25594,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "aubbie",
     "progress": 100
@@ -25154,7 +25602,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[TMG] Scotchtape",
     "progress": 100
@@ -25162,7 +25610,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "LogDog13",
     "progress": 100
@@ -25170,7 +25618,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "Franzy",
     "progress": 100
@@ -25178,7 +25626,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[ETPS] rain",
     "progress": 100
@@ -25186,7 +25634,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[WAWA] Rene",
     "progress": 100
@@ -25194,7 +25642,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "Rayflex",
     "progress": 100
@@ -25202,7 +25650,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "Conical",
     "progress": 100
@@ -25210,7 +25658,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "M1nerB0ss",
     "progress": 100
@@ -25218,7 +25666,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "uzuudeen",
     "progress": 100
@@ -25226,7 +25674,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[HOLA] TheSantyyy",
     "progress": 100
@@ -25234,7 +25682,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "kakol",
     "progress": 100
@@ -25242,7 +25690,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "klaps",
     "progress": 100
@@ -25250,7 +25698,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "Hels",
     "progress": 100
@@ -25258,7 +25706,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[IQB7] BlueGMD",
     "progress": 100
@@ -25266,7 +25714,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "MeQ8cNv43s6A",
     "progress": 100
@@ -25274,7 +25722,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[e] Scizor",
     "progress": 100
@@ -25282,7 +25730,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[ILUV] hanni",
     "progress": 100
@@ -25290,7 +25738,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[HERVE] niwox",
     "progress": 100
@@ -25298,7 +25746,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "UnityHost",
     "progress": 100
@@ -25306,7 +25754,15 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
+    "requirement": 66,
+    "player": "samu",
+    "progress": 100
+  },
+  {
+    "demon_id": 427,
+    "demon": "The Hallucination",
+    "position": 74,
     "requirement": 66,
     "player": "[SARK] Bamvie",
     "progress": 82
@@ -25314,7 +25770,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "Nahka",
     "progress": 81
@@ -25322,7 +25778,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "ElObs",
     "progress": 72
@@ -25330,7 +25786,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[POIKA] nebular",
     "progress": 71
@@ -25338,7 +25794,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[OG B] kropka",
     "progress": 71
@@ -25346,7 +25802,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[ZOBRO] Doubley123",
     "progress": 68
@@ -25354,7 +25810,7 @@
   {
     "demon_id": 427,
     "demon": "The Hallucination",
-    "position": 73,
+    "position": 74,
     "requirement": 66,
     "player": "[FLEUR] DraxitIII",
     "progress": 66
@@ -25362,1065 +25818,9 @@
   {
     "demon_id": 735,
     "demon": "Blooming Blossoms",
-    "position": 74,
+    "position": 75,
     "requirement": 77,
     "player": "funny boy",
     "progress": 78
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[67] Zoink",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[THNDR] Thnnder",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[WBT] Taiago",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "exsii",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "eastshark",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "NotNickOk",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[TCD] Trick",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[ROAR] coubitic",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "iamfinley",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "Laniakea",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[DTC] nicor77",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[ЗСУ] jerpa",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[PRIME] Enzollz",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[SARK] Netermind",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[WBT] Freezy",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[910] Stefan Boss",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[BHO] Opera",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[WBT] Mizukii",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[RF] It keeps your hands clean",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[COMET] Kaza",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[USSR] GreenZz",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[LARP] voicechatping",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[FOWL] Hqmy",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "bufbat",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "АБУБУБАБУДЖАК",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[BTBM] UNCLEBOGD4N",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[OG B] Superjavicon",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[GTS] Sharkified",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[SPQR] brite",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "Raluca",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[999] Thisisfcp",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[BEAVR] Oceliveth",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[CHAT] Abdieldevil",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[SARK] Timy",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[OG] ColossalOrange",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[ABA] Lucidium",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[SEREK] lus",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[MOON] Karma",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "rediio",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[Hi] Nexel",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[MEALY] LAMINGTON",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[SPQR] Paliermu",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[MEALY] zLevii",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[DTC] roud",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "donley",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[SSS] dollarolla",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[WBT] mariner",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[USSR] lanx",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[IRAN] Sulky",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[SEREK] gotsmile",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[UFA] dovv1n",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "Komet01",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "exerity",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "420noscopesugoi",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "Tihra",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[WBT] Noctal",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[RF] turtle",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "zGamerdude",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[TEC] Deez",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "xmercurylamp",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[ЗСУ] Rain",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[ЗСУ] kloone",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[RF] Johnlikediamond",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[SARK] CookedPugs",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "Dustabounds",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[SVO] The_Bat0",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[HOLA] wFishe",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "Slaughter",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "loneenigma",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "Franzy",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[ASTIL] manu",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[RF] Matthew",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "Echo",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "archh",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[TCC] tteokk",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[UCH] pizi",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "Hellcat",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "Nexi",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[MAOR] Syrcx",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[LCG] LunarSpark",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[RF] Fxrmula",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[CAFE] GuillExprex52",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "aatosballs",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "Rodmentor",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[ARMED] Lingherr",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[ILUV] tea",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[MMB] Ngaosama",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[4MO] Abstract",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[POIKA] korb",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[SARK] cudby",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[WBT] wPopoff",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[BHO] Cookie",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "zeppee",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[ILUV] funfire34",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[ILUV] PoCle",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[HOLA] naro",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "Taianomainen",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "veyra",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[BUDDY] xaern",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[OG] ProudGiraffe311",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "vicente",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[Hi] ByteLaw",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "sawyer",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "GuitGuit",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "yyokii",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[MOON] Kacek",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "Lorde",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[SPQR] zStucc",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[BK] Val",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "okaysobasically797",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[MAOR] itorio",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[KSZ] BockXO",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[LARP] littlegiggle",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[JORB] Zephronox",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "Ares",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "ваконте приколист",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "XoanoN65",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[SR53] TheReactionRule",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[SR53] icey",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[RF] MaruiG",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "carv",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[e] Scizor",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[TCD] Doggie",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[gmccl] craig0",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "Laban",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[COMET] zoe",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[FOWL] geodom",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[WAWA] Rene",
-    "progress": 100
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[POIKA] unkka",
-    "progress": 89
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "[Hi] usb",
-    "progress": 82
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "BarGames",
-    "progress": 77
-  },
-  {
-    "demon_id": 526,
-    "demon": "COMBUSTION",
-    "position": 75,
-    "requirement": 76,
-    "player": "Algirdas42",
-    "progress": 77
   }
 ]
