@@ -39,13 +39,3 @@ dir.mkdir(exist_ok=True)
 
 with open(dir/"records.json", "w", encoding="utf-8") as f:
     json.dump(records, f, indent=2, ensure_ascii=False)
-
-#Export every level regardless of whether it has progress records
-
-reactData = root / "latest" / "src" / "data"
-reactData.mkdir(parents=True, exist_ok= True)
-
-levels = [{"id": d["id"], "name": d["name"], "position": d["position"], "requirement": d["requirement"]} for d in demons ]
-
-with open(reactData / "levels.json", "w", encoding="utf-8") as f:
-    json.dump(levels,f, indent=2, ensure_ascii=False)

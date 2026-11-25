@@ -45,7 +45,7 @@ function App() {
 
     return(
         <div>
-            <h1>{slaughterhouseRecords[0]?.demon}</h1>
+            <h1>Slaughterhouse</h1>
             <p>{slaughterhouseRecords.length} progress records</p>
             <p>
                 Worst Chokepoint: {modes.join("%, ")}%
