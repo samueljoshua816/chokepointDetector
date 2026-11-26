@@ -212,6 +212,14 @@
     "demon": "Tidal Wave",
     "position": 7,
     "requirement": 72,
+    "player": "Vaskiat",
+    "progress": 78
+  },
+  {
+    "demon_id": 562,
+    "demon": "Tidal Wave",
+    "position": 7,
+    "requirement": 72,
     "player": "XBelugaX",
     "progress": 77
   },
@@ -230,6 +238,14 @@
     "requirement": 72,
     "player": "[RF] turtle",
     "progress": 74
+  },
+  {
+    "demon_id": 702,
+    "demon": "Green Bullet",
+    "position": 8,
+    "requirement": 68,
+    "player": "[HERVE] Cryostazz",
+    "progress": 73
   },
   {
     "demon_id": 671,
@@ -1884,6 +1900,14 @@
     "demon": "andromeda",
     "position": 21,
     "requirement": 66,
+    "player": "Eban Parksa",
+    "progress": 99
+  },
+  {
+    "demon_id": 613,
+    "demon": "andromeda",
+    "position": 21,
+    "requirement": 66,
     "player": "[HOLA] XaviiiFG",
     "progress": 74
   },
@@ -1918,14 +1942,6 @@
     "requirement": 66,
     "player": "[SPQR] brite",
     "progress": 70
-  },
-  {
-    "demon_id": 613,
-    "demon": "andromeda",
-    "position": 21,
-    "requirement": 66,
-    "player": "Eban Parksa",
-    "progress": 69
   },
   {
     "demon_id": 696,
@@ -2228,7 +2244,7 @@
     "demon": "Anathema",
     "position": 24,
     "requirement": 77,
-    "player": "bladed",
+    "player": "[CBD] bladed",
     "progress": 96
   },
   {
@@ -3716,7 +3732,7 @@
     "demon": "Acheron",
     "position": 29,
     "requirement": 70,
-    "player": "[VOPRC] Carbide-94",
+    "player": "[CBD] Carbide-94",
     "progress": 100
   },
   {
@@ -3868,6 +3884,22 @@
     "demon": "Acheron",
     "position": 29,
     "requirement": 70,
+    "player": "Dustabounds",
+    "progress": 100
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[YOK] dennisgd",
+    "progress": 100
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
     "player": "[MYS] za1lx",
     "progress": 98
   },
@@ -4004,15 +4036,7 @@
     "demon": "Acheron",
     "position": 29,
     "requirement": 70,
-    "player": "bladed",
-    "progress": 86
-  },
-  {
-    "demon_id": 442,
-    "demon": "Acheron",
-    "position": 29,
-    "requirement": 70,
-    "player": "[YOK] dennisgd",
+    "player": "[CBD] bladed",
     "progress": 86
   },
   {
@@ -4148,7 +4172,7 @@
     "demon": "Acheron",
     "position": 29,
     "requirement": 70,
-    "player": "[KI] playlino",
+    "player": "[CNSLT] playlino",
     "progress": 72
   },
   {
@@ -8020,7 +8044,7 @@
     "demon": "Slaughterhouse",
     "position": 42,
     "requirement": 75,
-    "player": "bladed",
+    "player": "[CBD] bladed",
     "progress": 100
   },
   {
@@ -8348,7 +8372,7 @@
     "demon": "Slaughterhouse",
     "position": 42,
     "requirement": 75,
-    "player": "[VOPRC] Carbide-94",
+    "player": "[CBD] Carbide-94",
     "progress": 100
   },
   {
@@ -8756,7 +8780,7 @@
     "demon": "Slaughterhouse",
     "position": 42,
     "requirement": 75,
-    "player": "[PATU] kOre",
+    "player": "waspar",
     "progress": 100
   },
   {
@@ -9708,7 +9732,7 @@
     "demon": "Slaughterhouse",
     "position": 42,
     "requirement": 75,
-    "player": "audo;pi",
+    "player": "[CNSLT] audo;pi",
     "progress": 100
   },
   {
@@ -9717,6 +9741,14 @@
     "position": 42,
     "requirement": 75,
     "player": "ryanbcgd",
+    "progress": 100
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[PATU]  malopalgeometry",
     "progress": 100
   },
   {
@@ -10012,7 +10044,7 @@
     "demon": "Slaughterhouse",
     "position": 42,
     "requirement": 75,
-    "player": "[CBFA] ejgpsyched",
+    "player": "[CBD] ejgpsyched",
     "progress": 87
   },
   {
@@ -10948,7 +10980,7 @@
     "demon": "Slaughterhouse",
     "position": 42,
     "requirement": 75,
-    "player": "Aaaapex",
+    "player": "[SCR] Aaaapex",
     "progress": 75
   },
   {
@@ -11124,7 +11156,7 @@
     "demon": "Subterminal Point",
     "position": 43,
     "requirement": 71,
-    "player": "[KI] playlino",
+    "player": "[CNSLT] playlino",
     "progress": 100
   },
   {
@@ -15036,7 +15068,7 @@
     "demon": "Sakupen Circles",
     "position": 51,
     "requirement": 69,
-    "player": "bladed",
+    "player": "[CBD] bladed",
     "progress": 100
   },
   {
@@ -15084,7 +15116,7 @@
     "demon": "Sakupen Circles",
     "position": 51,
     "requirement": 69,
-    "player": "[CBFA] ejgpsyched",
+    "player": "[CBD] ejgpsyched",
     "progress": 100
   },
   {
@@ -15220,7 +15252,7 @@
     "demon": "Sakupen Circles",
     "position": 51,
     "requirement": 69,
-    "player": "[VOPRC] Carbide-94",
+    "player": "[CBD] Carbide-94",
     "progress": 100
   },
   {
@@ -15588,7 +15620,7 @@
     "demon": "Sakupen Circles",
     "position": 51,
     "requirement": 69,
-    "player": "[CBFA] Kiysa",
+    "player": "[CBD] Kiysa",
     "progress": 82
   },
   {
@@ -17084,7 +17116,7 @@
     "demon": "Firework",
     "position": 62,
     "requirement": 71,
-    "player": "hlcyn",
+    "player": "halcyon777",
     "progress": 100
   },
   {
@@ -19380,6 +19412,14 @@
     "demon": "Through The Gates",
     "position": 63,
     "requirement": 90,
+    "player": "Satapak987",
+    "progress": 100
+  },
+  {
+    "demon_id": 663,
+    "demon": "Through The Gates",
+    "position": 63,
+    "requirement": 90,
     "player": "[CAFE] CoffeeChips",
     "progress": 93
   },
@@ -20228,6 +20268,14 @@
     "demon": "KOSETSU",
     "position": 66,
     "requirement": 68,
+    "player": "[OG] GodGamer2442",
+    "progress": 100
+  },
+  {
+    "demon_id": 587,
+    "demon": "KOSETSU",
+    "position": 66,
+    "requirement": 68,
     "player": "Zaaforus",
     "progress": 82
   },
@@ -20860,7 +20908,7 @@
     "demon": "NOMAD",
     "position": 69,
     "requirement": 72,
-    "player": "IAmJuanan",
+    "player": "[RBB] IAmJuanan",
     "progress": 100
   },
   {
@@ -21084,6 +21132,14 @@
     "demon": "NervHell",
     "position": 70,
     "requirement": 64,
+    "player": "TB4727",
+    "progress": 100
+  },
+  {
+    "demon_id": 705,
+    "demon": "NervHell",
+    "position": 70,
+    "requirement": 64,
     "player": "Bacolor",
     "progress": 90
   },
@@ -21230,6 +21286,14 @@
     "requirement": 73,
     "player": "[UK] CrystalGD",
     "progress": 78
+  },
+  {
+    "demon_id": 642,
+    "demon": "Loops of Fury",
+    "position": 71,
+    "requirement": 73,
+    "player": "HickyZack",
+    "progress": 76
   },
   {
     "demon_id": 681,
@@ -22588,7 +22652,7 @@
     "demon": "poocubed",
     "position": 73,
     "requirement": 66,
-    "player": "audo;pi",
+    "player": "[CNSLT] audo;pi",
     "progress": 100
   },
   {
@@ -23316,7 +23380,7 @@
     "demon": "poocubed",
     "position": 73,
     "requirement": 66,
-    "player": "[SIVAR] S4zerix",
+    "player": "ThDiego740",
     "progress": 88
   },
   {
@@ -23340,7 +23404,7 @@
     "demon": "poocubed",
     "position": 73,
     "requirement": 66,
-    "player": "[WCL] LilNuh25",
+    "player": "[WCL] Cynoq",
     "progress": 83
   },
   {
@@ -23365,6 +23429,14 @@
     "position": 73,
     "requirement": 66,
     "player": "[OG B] loliwz",
+    "progress": 81
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "inapt",
     "progress": 81
   },
   {
@@ -23412,7 +23484,15 @@
     "demon": "poocubed",
     "position": 73,
     "requirement": 66,
-    "player": "[CBFA] ejgpsyched",
+    "player": "[IHGD] AbsoluteGMD",
+    "progress": 77
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "[CBD] ejgpsyched",
     "progress": 75
   },
   {
@@ -23908,7 +23988,7 @@
     "demon": "Calibrate",
     "position": 75,
     "requirement": 63,
-    "player": "[CBFA] ejgpsyched",
+    "player": "[CBD] ejgpsyched",
     "progress": 100
   },
   {
@@ -24069,6 +24149,14 @@
     "position": 75,
     "requirement": 63,
     "player": "seth",
+    "progress": 100
+  },
+  {
+    "demon_id": 683,
+    "demon": "Calibrate",
+    "position": 75,
+    "requirement": 63,
+    "player": "[PIG] Dubu",
     "progress": 100
   },
   {
