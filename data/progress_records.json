@@ -1,0 +1,4194 @@
+[
+  {
+    "demon_id": 698,
+    "demon": "Society",
+    "position": 3,
+    "requirement": 66,
+    "player": "ChopBlox",
+    "progress": 71
+  },
+  {
+    "demon_id": 635,
+    "demon": "Thinking Space II",
+    "position": 4,
+    "requirement": 79,
+    "player": "[SARK] Netermind",
+    "progress": 89
+  },
+  {
+    "demon_id": 635,
+    "demon": "Thinking Space II",
+    "position": 4,
+    "requirement": 79,
+    "player": "[UFA] dovv1n",
+    "progress": 89
+  },
+  {
+    "demon_id": 635,
+    "demon": "Thinking Space II",
+    "position": 4,
+    "requirement": 79,
+    "player": "[gmccl] craig0",
+    "progress": 85
+  },
+  {
+    "demon_id": 635,
+    "demon": "Thinking Space II",
+    "position": 4,
+    "requirement": 79,
+    "player": "[HERVE] niwox",
+    "progress": 83
+  },
+  {
+    "demon_id": 638,
+    "demon": "Flamewall",
+    "position": 6,
+    "requirement": 68,
+    "player": "[didy] vsce",
+    "progress": 98
+  },
+  {
+    "demon_id": 638,
+    "demon": "Flamewall",
+    "position": 6,
+    "requirement": 68,
+    "player": "Bigthunder556",
+    "progress": 81
+  },
+  {
+    "demon_id": 638,
+    "demon": "Flamewall",
+    "position": 6,
+    "requirement": 68,
+    "player": "[LASER] Laysah",
+    "progress": 74
+  },
+  {
+    "demon_id": 562,
+    "demon": "Tidal Wave",
+    "position": 7,
+    "requirement": 72,
+    "player": "[ASTIL] Paltadashg",
+    "progress": 93
+  },
+  {
+    "demon_id": 562,
+    "demon": "Tidal Wave",
+    "position": 7,
+    "requirement": 72,
+    "player": "Icanplayz",
+    "progress": 83
+  },
+  {
+    "demon_id": 562,
+    "demon": "Tidal Wave",
+    "position": 7,
+    "requirement": 72,
+    "player": "[아기엔더맨] karkito",
+    "progress": 81
+  },
+  {
+    "demon_id": 562,
+    "demon": "Tidal Wave",
+    "position": 7,
+    "requirement": 72,
+    "player": "Vaskiat",
+    "progress": 78
+  },
+  {
+    "demon_id": 562,
+    "demon": "Tidal Wave",
+    "position": 7,
+    "requirement": 72,
+    "player": "XBelugaX",
+    "progress": 77
+  },
+  {
+    "demon_id": 562,
+    "demon": "Tidal Wave",
+    "position": 7,
+    "requirement": 72,
+    "player": "FornaxGD",
+    "progress": 77
+  },
+  {
+    "demon_id": 562,
+    "demon": "Tidal Wave",
+    "position": 7,
+    "requirement": 72,
+    "player": "[RF] turtle",
+    "progress": 74
+  },
+  {
+    "demon_id": 702,
+    "demon": "Green Bullet",
+    "position": 8,
+    "requirement": 68,
+    "player": "[HERVE] Cryostazz",
+    "progress": 73
+  },
+  {
+    "demon_id": 671,
+    "demon": "ORBIT",
+    "position": 9,
+    "requirement": 65,
+    "player": "PlusrMinus",
+    "progress": 80
+  },
+  {
+    "demon_id": 671,
+    "demon": "ORBIT",
+    "position": 9,
+    "requirement": 65,
+    "player": "PH23NIX",
+    "progress": 77
+  },
+  {
+    "demon_id": 671,
+    "demon": "ORBIT",
+    "position": 9,
+    "requirement": 65,
+    "player": "Deimos",
+    "progress": 66
+  },
+  {
+    "demon_id": 671,
+    "demon": "ORBIT",
+    "position": 9,
+    "requirement": 65,
+    "player": "[MAOR] abb2k",
+    "progress": 66
+  },
+  {
+    "demon_id": 589,
+    "demon": "Nullscapes",
+    "position": 11,
+    "requirement": 68,
+    "player": "Ninde",
+    "progress": 88
+  },
+  {
+    "demon_id": 589,
+    "demon": "Nullscapes",
+    "position": 11,
+    "requirement": 68,
+    "player": "Samot",
+    "progress": 86
+  },
+  {
+    "demon_id": 589,
+    "demon": "Nullscapes",
+    "position": 11,
+    "requirement": 68,
+    "player": "Osmo",
+    "progress": 81
+  },
+  {
+    "demon_id": 589,
+    "demon": "Nullscapes",
+    "position": 11,
+    "requirement": 68,
+    "player": "Borde",
+    "progress": 79
+  },
+  {
+    "demon_id": 589,
+    "demon": "Nullscapes",
+    "position": 11,
+    "requirement": 68,
+    "player": "Adri420",
+    "progress": 78
+  },
+  {
+    "demon_id": 589,
+    "demon": "Nullscapes",
+    "position": 11,
+    "requirement": 68,
+    "player": "~ lenii.",
+    "progress": 77
+  },
+  {
+    "demon_id": 589,
+    "demon": "Nullscapes",
+    "position": 11,
+    "requirement": 68,
+    "player": "ralex",
+    "progress": 71
+  },
+  {
+    "demon_id": 589,
+    "demon": "Nullscapes",
+    "position": 11,
+    "requirement": 68,
+    "player": "Rush",
+    "progress": 71
+  },
+  {
+    "demon_id": 589,
+    "demon": "Nullscapes",
+    "position": 11,
+    "requirement": 68,
+    "player": "stayawhile",
+    "progress": 71
+  },
+  {
+    "demon_id": 589,
+    "demon": "Nullscapes",
+    "position": 11,
+    "requirement": 68,
+    "player": "JYes",
+    "progress": 69
+  },
+  {
+    "demon_id": 660,
+    "demon": "Quanteuse processing",
+    "position": 12,
+    "requirement": 60,
+    "player": "lua",
+    "progress": 89
+  },
+  {
+    "demon_id": 660,
+    "demon": "Quanteuse processing",
+    "position": 12,
+    "requirement": 60,
+    "player": "Sm1leX",
+    "progress": 65
+  },
+  {
+    "demon_id": 594,
+    "demon": "BOOBAWAMBA",
+    "position": 13,
+    "requirement": 63,
+    "player": "[IQB7] BlueGMD",
+    "progress": 69
+  },
+  {
+    "demon_id": 700,
+    "demon": "The Bloop",
+    "position": 14,
+    "requirement": 67,
+    "player": "Laban",
+    "progress": 77
+  },
+  {
+    "demon_id": 620,
+    "demon": "Every End",
+    "position": 15,
+    "requirement": 67,
+    "player": "Kiruu",
+    "progress": 99
+  },
+  {
+    "demon_id": 620,
+    "demon": "Every End",
+    "position": 15,
+    "requirement": 67,
+    "player": "Cymmas",
+    "progress": 87
+  },
+  {
+    "demon_id": 620,
+    "demon": "Every End",
+    "position": 15,
+    "requirement": 67,
+    "player": "Agent009",
+    "progress": 84
+  },
+  {
+    "demon_id": 620,
+    "demon": "Every End",
+    "position": 15,
+    "requirement": 67,
+    "player": "[st] Aless50",
+    "progress": 82
+  },
+  {
+    "demon_id": 620,
+    "demon": "Every End",
+    "position": 15,
+    "requirement": 67,
+    "player": "[FLAT] Alice Margatroid",
+    "progress": 74
+  },
+  {
+    "demon_id": 620,
+    "demon": "Every End",
+    "position": 15,
+    "requirement": 67,
+    "player": "plepbep60",
+    "progress": 71
+  },
+  {
+    "demon_id": 669,
+    "demon": "Ashley Wave Trials",
+    "position": 16,
+    "requirement": 77,
+    "player": "WavStar",
+    "progress": 77
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "Chiikawa",
+    "progress": 78
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "[67] KitKat",
+    "progress": 78
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "[BLOOM] zThund3r",
+    "progress": 76
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "[RENT] Snale Lorde",
+    "progress": 75
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "parker",
+    "progress": 72
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "siwu",
+    "progress": 72
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "dewbbs",
+    "progress": 71
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "Zaro7",
+    "progress": 71
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "[FLEUR] DraxitIII",
+    "progress": 67
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "Sameh.444",
+    "progress": 66
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "Rodmentor",
+    "progress": 65
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "DravenPvP",
+    "progress": 65
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "oish",
+    "progress": 65
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "humptwe",
+    "progress": 65
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "TrollFaceGaming",
+    "progress": 65
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "[SDF] ioi890",
+    "progress": 65
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "[SALAA] Vallufinland",
+    "progress": 65
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "[BUDDY] Ellie",
+    "progress": 65
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "sykaav",
+    "progress": 64
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "[BLKHL] CruxxGMD",
+    "progress": 63
+  },
+  {
+    "demon_id": 428,
+    "demon": "Silent clubstep",
+    "position": 18,
+    "requirement": 63,
+    "player": "[IRAN] Sulky",
+    "progress": 63
+  },
+  {
+    "demon_id": 704,
+    "demon": "Ultra Paracosm",
+    "position": 19,
+    "requirement": 37,
+    "player": "dmsens",
+    "progress": 50
+  },
+  {
+    "demon_id": 704,
+    "demon": "Ultra Paracosm",
+    "position": 19,
+    "requirement": 37,
+    "player": "[MAOR] Beto",
+    "progress": 43
+  },
+  {
+    "demon_id": 704,
+    "demon": "Ultra Paracosm",
+    "position": 19,
+    "requirement": 37,
+    "player": "bartolini3",
+    "progress": 42
+  },
+  {
+    "demon_id": 704,
+    "demon": "Ultra Paracosm",
+    "position": 19,
+    "requirement": 37,
+    "player": "[Void] MB",
+    "progress": 40
+  },
+  {
+    "demon_id": 704,
+    "demon": "Ultra Paracosm",
+    "position": 19,
+    "requirement": 37,
+    "player": "[GTS] Gamingbyte",
+    "progress": 39
+  },
+  {
+    "demon_id": 704,
+    "demon": "Ultra Paracosm",
+    "position": 19,
+    "requirement": 37,
+    "player": "[888] spoof",
+    "progress": 38
+  },
+  {
+    "demon_id": 680,
+    "demon": "Penumbral",
+    "position": 20,
+    "requirement": 80,
+    "player": "[SARK] cudby",
+    "progress": 91
+  },
+  {
+    "demon_id": 680,
+    "demon": "Penumbral",
+    "position": 20,
+    "requirement": 80,
+    "player": "pohgii",
+    "progress": 85
+  },
+  {
+    "demon_id": 680,
+    "demon": "Penumbral",
+    "position": 20,
+    "requirement": 80,
+    "player": "unwill",
+    "progress": 81
+  },
+  {
+    "demon_id": 613,
+    "demon": "andromeda",
+    "position": 21,
+    "requirement": 66,
+    "player": "Eban Parksa",
+    "progress": 99
+  },
+  {
+    "demon_id": 613,
+    "demon": "andromeda",
+    "position": 21,
+    "requirement": 66,
+    "player": "[HOLA] XaviiiFG",
+    "progress": 74
+  },
+  {
+    "demon_id": 613,
+    "demon": "andromeda",
+    "position": 21,
+    "requirement": 66,
+    "player": "pyrlt",
+    "progress": 72
+  },
+  {
+    "demon_id": 613,
+    "demon": "andromeda",
+    "position": 21,
+    "requirement": 66,
+    "player": "fxpusphire",
+    "progress": 72
+  },
+  {
+    "demon_id": 613,
+    "demon": "andromeda",
+    "position": 21,
+    "requirement": 66,
+    "player": "The_Zok",
+    "progress": 72
+  },
+  {
+    "demon_id": 613,
+    "demon": "andromeda",
+    "position": 21,
+    "requirement": 66,
+    "player": "[SPQR] brite",
+    "progress": 70
+  },
+  {
+    "demon_id": 649,
+    "demon": "Subsuming Vortex",
+    "position": 23,
+    "requirement": 66,
+    "player": "[HOLA] Wity",
+    "progress": 73
+  },
+  {
+    "demon_id": 602,
+    "demon": "Anathema",
+    "position": 24,
+    "requirement": 77,
+    "player": "[CBD] bladed",
+    "progress": 96
+  },
+  {
+    "demon_id": 602,
+    "demon": "Anathema",
+    "position": 24,
+    "requirement": 77,
+    "player": "[UCH] pizi",
+    "progress": 85
+  },
+  {
+    "demon_id": 745,
+    "demon": "Azure Flare",
+    "position": 25,
+    "requirement": 57,
+    "player": "[SARK] Timy",
+    "progress": 66
+  },
+  {
+    "demon_id": 639,
+    "demon": "Defeated Circles",
+    "position": 26,
+    "requirement": 73,
+    "player": "necrolord",
+    "progress": 87
+  },
+  {
+    "demon_id": 639,
+    "demon": "Defeated Circles",
+    "position": 26,
+    "requirement": 73,
+    "player": "[67] aidanhh",
+    "progress": 86
+  },
+  {
+    "demon_id": 639,
+    "demon": "Defeated Circles",
+    "position": 26,
+    "requirement": 73,
+    "player": "Sade",
+    "progress": 79
+  },
+  {
+    "demon_id": 486,
+    "demon": "Avernus",
+    "position": 27,
+    "requirement": 67,
+    "player": "[USSR] Light",
+    "progress": 98
+  },
+  {
+    "demon_id": 486,
+    "demon": "Avernus",
+    "position": 27,
+    "requirement": 67,
+    "player": "vicente",
+    "progress": 87
+  },
+  {
+    "demon_id": 486,
+    "demon": "Avernus",
+    "position": 27,
+    "requirement": 67,
+    "player": "Korppu",
+    "progress": 79
+  },
+  {
+    "demon_id": 486,
+    "demon": "Avernus",
+    "position": 27,
+    "requirement": 67,
+    "player": "Imbeemed",
+    "progress": 70
+  },
+  {
+    "demon_id": 715,
+    "demon": "FOREST OF SPIKES",
+    "position": 28,
+    "requirement": 66,
+    "player": "[JORB] Zephronox",
+    "progress": 75
+  },
+  {
+    "demon_id": 715,
+    "demon": "FOREST OF SPIKES",
+    "position": 28,
+    "requirement": 66,
+    "player": "Bennu",
+    "progress": 73
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[MYS] za1lx",
+    "progress": 98
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[K7] kosh",
+    "progress": 98
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "Draxz",
+    "progress": 98
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[TCD] Diamond",
+    "progress": 98
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[gmccl] craig0",
+    "progress": 97
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "Miku Mayhem",
+    "progress": 97
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[AMEN] dellonz",
+    "progress": 94
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "Florned",
+    "progress": 94
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "Maihem",
+    "progress": 94
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "Gopn",
+    "progress": 94
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "Rodmentor",
+    "progress": 89
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[OX] Teyyo",
+    "progress": 89
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "Flexx",
+    "progress": 89
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[RF] Matthew",
+    "progress": 89
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[ARMED] notd4n1",
+    "progress": 86
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "DeyLix",
+    "progress": 86
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "KristoZed",
+    "progress": 86
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[CBD] bladed",
+    "progress": 86
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[RF] Johnlikediamond",
+    "progress": 85
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "GoudBridge",
+    "progress": 84
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[Ñ] Emiliano56",
+    "progress": 83
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "Regoshi",
+    "progress": 83
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "ekleraaa",
+    "progress": 83
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[UFA] dovv1n",
+    "progress": 75
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "Tami",
+    "progress": 75
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "Pxlish",
+    "progress": 74
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[SEREK] Felps_2106",
+    "progress": 73
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "Fallen1k",
+    "progress": 73
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[SEREK] Sharpzera",
+    "progress": 73
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[HUFS] Clutter",
+    "progress": 72
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[CHAT] sunix.",
+    "progress": 72
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "Grixi",
+    "progress": 72
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[OG B] kropka",
+    "progress": 72
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "T4G",
+    "progress": 72
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[CNSLT] playlino",
+    "progress": 72
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "niononi",
+    "progress": 72
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[j] wooshify",
+    "progress": 72
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "Pallo76",
+    "progress": 72
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "serkname",
+    "progress": 72
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "[GDC] Eskimi",
+    "progress": 72
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "exsii",
+    "progress": 70
+  },
+  {
+    "demon_id": 592,
+    "demon": "Spectre",
+    "position": 31,
+    "requirement": 75,
+    "player": "MIxselPL",
+    "progress": 94
+  },
+  {
+    "demon_id": 592,
+    "demon": "Spectre",
+    "position": 31,
+    "requirement": 75,
+    "player": "CKDashApril",
+    "progress": 92
+  },
+  {
+    "demon_id": 592,
+    "demon": "Spectre",
+    "position": 31,
+    "requirement": 75,
+    "player": "NinSam",
+    "progress": 91
+  },
+  {
+    "demon_id": 592,
+    "demon": "Spectre",
+    "position": 31,
+    "requirement": 75,
+    "player": "[CREAM] Serpentical",
+    "progress": 86
+  },
+  {
+    "demon_id": 592,
+    "demon": "Spectre",
+    "position": 31,
+    "requirement": 75,
+    "player": "[OX] Teyyo",
+    "progress": 77
+  },
+  {
+    "demon_id": 592,
+    "demon": "Spectre",
+    "position": 31,
+    "requirement": 75,
+    "player": "[JOB] ViperVenom95",
+    "progress": 75
+  },
+  {
+    "demon_id": 592,
+    "demon": "Spectre",
+    "position": 31,
+    "requirement": 75,
+    "player": "[MOON] veyra",
+    "progress": 75
+  },
+  {
+    "demon_id": 577,
+    "demon": "Menace",
+    "position": 32,
+    "requirement": 73,
+    "player": "[HOLA] Klopz",
+    "progress": 96
+  },
+  {
+    "demon_id": 577,
+    "demon": "Menace",
+    "position": 32,
+    "requirement": 73,
+    "player": "[SEREK] gotsmile",
+    "progress": 93
+  },
+  {
+    "demon_id": 577,
+    "demon": "Menace",
+    "position": 32,
+    "requirement": 73,
+    "player": "[ROAR] coubitic",
+    "progress": 92
+  },
+  {
+    "demon_id": 577,
+    "demon": "Menace",
+    "position": 32,
+    "requirement": 73,
+    "player": "Kamris",
+    "progress": 86
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
+    "player": "[GMT] ApparentlyDan",
+    "progress": 98
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
+    "player": "stoepit123",
+    "progress": 97
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
+    "player": "[FLEUR] DraxitIII",
+    "progress": 96
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
+    "player": "[HOLA] Pimpollas",
+    "progress": 95
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
+    "player": "Cramble",
+    "progress": 92
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
+    "player": "[RF] It keeps your hands clean",
+    "progress": 92
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
+    "player": "eekoboi",
+    "progress": 91
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
+    "player": "Lighning05",
+    "progress": 91
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
+    "player": "[CREAM] Serpentical",
+    "progress": 85
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
+    "player": "[REME] miguel6456",
+    "progress": 83
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
+    "player": "Raluca",
+    "progress": 81
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
+    "player": "[ARMED] metis86",
+    "progress": 80
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
+    "player": "JudeRB",
+    "progress": 78
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
+    "player": "Helix",
+    "progress": 76
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
+    "player": "[미소노 미카] 구아이",
+    "progress": 76
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
+    "player": "MatsuoIsHere",
+    "progress": 76
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
+    "player": "Nino2408",
+    "progress": 75
+  },
+  {
+    "demon_id": 520,
+    "demon": "Tunnel of Despair",
+    "position": 34,
+    "requirement": 79,
+    "player": "Giovanni5250",
+    "progress": 87
+  },
+  {
+    "demon_id": 520,
+    "demon": "Tunnel of Despair",
+    "position": 34,
+    "requirement": 79,
+    "player": "Raluca",
+    "progress": 86
+  },
+  {
+    "demon_id": 520,
+    "demon": "Tunnel of Despair",
+    "position": 34,
+    "requirement": 79,
+    "player": "Nocciii",
+    "progress": 81
+  },
+  {
+    "demon_id": 520,
+    "demon": "Tunnel of Despair",
+    "position": 34,
+    "requirement": 79,
+    "player": "[A1s] Calow",
+    "progress": 79
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "[EZ] AleZiniX",
+    "progress": 97
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "[RF] Fxrmula",
+    "progress": 96
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "ZyroGama04",
+    "progress": 94
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "Gokill",
+    "progress": 90
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "wWickedd",
+    "progress": 90
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "[JUICE] penpenliddy",
+    "progress": 88
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "[SLVT] Nim",
+    "progress": 87
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "yanlici",
+    "progress": 87
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "[TCC] skeebOwO",
+    "progress": 83
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "[OX] Teyyo",
+    "progress": 83
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "Blyfl",
+    "progress": 83
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "Rodri36xD6",
+    "progress": 82
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "[OBCD] Oblivionus",
+    "progress": 81
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "lamp86",
+    "progress": 78
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "dafyuy",
+    "progress": 75
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "[FLEUR] DraxitIII",
+    "progress": 73
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "[HOLA] XaviiiFG",
+    "progress": 73
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "[WBT] diddy",
+    "progress": 72
+  },
+  {
+    "demon_id": 468,
+    "demon": "Kyouki",
+    "position": 35,
+    "requirement": 72,
+    "player": "dabropazal",
+    "progress": 72
+  },
+  {
+    "demon_id": 528,
+    "demon": "The Lightning Rod",
+    "position": 39,
+    "requirement": 63,
+    "player": "[FAX] Zoink Doink",
+    "progress": 71
+  },
+  {
+    "demon_id": 697,
+    "demon": "Maniacal Chains",
+    "position": 40,
+    "requirement": 85,
+    "player": "[Hi] ByteLaw",
+    "progress": 87
+  },
+  {
+    "demon_id": 733,
+    "demon": "Thinking Space II",
+    "position": 41,
+    "requirement": 74,
+    "player": "[HRYZ] zabakovnik",
+    "progress": 87
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "ainiru",
+    "progress": 98
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "jaegerdd",
+    "progress": 95
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Larapra",
+    "progress": 95
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[YSTA] kekchungle44",
+    "progress": 95
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Buckle",
+    "progress": 95
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "boje",
+    "progress": 95
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[ZOBRO] Doubley123",
+    "progress": 95
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "woolfys",
+    "progress": 95
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "PigeonEnjoyer",
+    "progress": 94
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[BLKHL] CruxxGMD",
+    "progress": 93
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "KlimK",
+    "progress": 93
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "DebatableDoggo",
+    "progress": 93
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "NHyper",
+    "progress": 93
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Soletti",
+    "progress": 93
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "ramxs",
+    "progress": 93
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "ninfisgoat",
+    "progress": 93
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Noxureta",
+    "progress": 93
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "dizbro",
+    "progress": 92
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "guayabon56",
+    "progress": 92
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[TARIQ] Katzen",
+    "progress": 92
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[MONDÁ] Staixz",
+    "progress": 92
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "z1oki",
+    "progress": 92
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[YAGA] soley",
+    "progress": 91
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "nqlol",
+    "progress": 91
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[Ñ] Freikz",
+    "progress": 90
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Tyreek Bigs",
+    "progress": 90
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "NeonMustard",
+    "progress": 89
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[BLKHL] Xenrix",
+    "progress": 88
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "TrigHappy21",
+    "progress": 88
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "MartetosTetos",
+    "progress": 88
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Subez",
+    "progress": 87
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "zurdgd",
+    "progress": 87
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Van06",
+    "progress": 87
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Beems",
+    "progress": 87
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[CBD] ejgpsyched",
+    "progress": 87
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[CBFA] NotZevix",
+    "progress": 87
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "zSyzygy",
+    "progress": 86
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[SMX] Violet",
+    "progress": 86
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "purifyy",
+    "progress": 86
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "serdnALof",
+    "progress": 86
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "bewind",
+    "progress": 86
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[SARK] Timy",
+    "progress": 86
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "NIMPOP",
+    "progress": 86
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "orbPT",
+    "progress": 86
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Doyle.",
+    "progress": 86
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[SGD] CookieIsMine",
+    "progress": 84
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "a6iq1",
+    "progress": 84
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "FinnyP515",
+    "progress": 84
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "PureL",
+    "progress": 84
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "baxterboi3",
+    "progress": 84
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "hammy",
+    "progress": 84
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Regoshi",
+    "progress": 83
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[NDSH] MoyaiX",
+    "progress": 83
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Time",
+    "progress": 83
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "JACthulhu",
+    "progress": 83
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "rgaix6fm",
+    "progress": 83
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Frostix",
+    "progress": 82
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Fracdayy",
+    "progress": 82
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Jolly15",
+    "progress": 82
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "c4elan",
+    "progress": 82
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[claXX] speedwr",
+    "progress": 82
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[CORN] zMiko",
+    "progress": 82
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[SARK] 1ssky",
+    "progress": 82
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "zYosh",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Scep!",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "RaQwAGMD",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[SPQR] brite",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Sade",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "gdbros",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "yeatcw",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "stoepit123",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[LZJ] Llantero",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Ashernaut",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "unwill",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[351] BigZacian",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "chaseqwe",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[THING] Pup",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "xpcheese",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "suntizy",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Kepta",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "ItzQueney",
+    "progress": 80
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Juan_7542",
+    "progress": 80
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "cCommoner",
+    "progress": 80
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "agar33",
+    "progress": 80
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "AxolotlW",
+    "progress": 80
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[A$AP] MiOteK",
+    "progress": 80
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "meylowW",
+    "progress": 80
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Antonn26",
+    "progress": 80
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[QUA] Girg",
+    "progress": 80
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[YSTA] ghostball24",
+    "progress": 80
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Spoony",
+    "progress": 80
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "OneAlphaHelix",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[ASTRO] diversify",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[ARMED] notd4n1",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Themixterfan",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "LelNea",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "CannaSoup",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Wayne",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "sorrysilas",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "sudo",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "S3N1",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "wTopsk",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "kruel",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "SlothUK⁩",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "RwandanRhubarb6",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "IncredibleEJ",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "GovisLost",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Pentamery",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Nyxi",
+    "progress": 79
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Eclipse",
+    "progress": 78
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "ui227",
+    "progress": 78
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[COMET] zoe",
+    "progress": 78
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[24hs] 金艮",
+    "progress": 78
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[SUN] SunlightsWorld",
+    "progress": 78
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[RHTE] Phantomm",
+    "progress": 78
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "chesborge",
+    "progress": 78
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "zxydGD",
+    "progress": 77
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "SLEMNS",
+    "progress": 76
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "lio3527",
+    "progress": 76
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[THNDR] jamalhebeebhebab",
+    "progress": 76
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "EditorBails",
+    "progress": 76
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "FabianGD",
+    "progress": 76
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "iamcrusher",
+    "progress": 76
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[TDH] LotokzBot",
+    "progress": 76
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[YN] Slayer",
+    "progress": 76
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "larrythecarry",
+    "progress": 76
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "TheRegularGuy",
+    "progress": 76
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "aden5674",
+    "progress": 76
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "manuelmeep",
+    "progress": 76
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "toybreaker500",
+    "progress": 76
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "jilna",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "No0byyy",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[RF] It keeps your hands clean",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Pxlish",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Adri ketchup",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Sera",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Zidged",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[FLAT] Fortnitekid420",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Quaoz",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Uri7look",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "meylow",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Dragomir Despić Desingerica",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[LARP] Cosmiciscool",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Buba148",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "NathanPatty",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "seeryanplay",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "JPlonk_",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[SR53] icey",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[GTS] theos",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "HotSauceFear",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[GDC] Eskimi",
+    "progress": 75
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "[SCR] Aaaapex",
+    "progress": 75
+  },
+  {
+    "demon_id": 612,
+    "demon": "Subterminal Point",
+    "position": 43,
+    "requirement": 71,
+    "player": "[UFA] dovv1n",
+    "progress": 92
+  },
+  {
+    "demon_id": 612,
+    "demon": "Subterminal Point",
+    "position": 43,
+    "requirement": 71,
+    "player": "[SELL] Harhir",
+    "progress": 90
+  },
+  {
+    "demon_id": 612,
+    "demon": "Subterminal Point",
+    "position": 43,
+    "requirement": 71,
+    "player": "[NCSC] Daevie",
+    "progress": 76
+  },
+  {
+    "demon_id": 612,
+    "demon": "Subterminal Point",
+    "position": 43,
+    "requirement": 71,
+    "player": "[RF] It keeps your hands clean",
+    "progress": 73
+  },
+  {
+    "demon_id": 612,
+    "demon": "Subterminal Point",
+    "position": 43,
+    "requirement": 71,
+    "player": "[MAOR] itorio",
+    "progress": 73
+  },
+  {
+    "demon_id": 612,
+    "demon": "Subterminal Point",
+    "position": 43,
+    "requirement": 71,
+    "player": "ekleraaa",
+    "progress": 71
+  },
+  {
+    "demon_id": 501,
+    "demon": "KOCMOC",
+    "position": 44,
+    "requirement": 73,
+    "player": "Orgen",
+    "progress": 86
+  },
+  {
+    "demon_id": 501,
+    "demon": "KOCMOC",
+    "position": 44,
+    "requirement": 73,
+    "player": "Tïpower",
+    "progress": 82
+  },
+  {
+    "demon_id": 501,
+    "demon": "KOCMOC",
+    "position": 44,
+    "requirement": 73,
+    "player": "MegaCatMan",
+    "progress": 82
+  },
+  {
+    "demon_id": 501,
+    "demon": "KOCMOC",
+    "position": 44,
+    "requirement": 73,
+    "player": "Giovanni5250",
+    "progress": 82
+  },
+  {
+    "demon_id": 501,
+    "demon": "KOCMOC",
+    "position": 44,
+    "requirement": 73,
+    "player": "Menko",
+    "progress": 82
+  },
+  {
+    "demon_id": 501,
+    "demon": "KOCMOC",
+    "position": 44,
+    "requirement": 73,
+    "player": "Liamkn08",
+    "progress": 82
+  },
+  {
+    "demon_id": 501,
+    "demon": "KOCMOC",
+    "position": 44,
+    "requirement": 73,
+    "player": "[didy] taro",
+    "progress": 80
+  },
+  {
+    "demon_id": 501,
+    "demon": "KOCMOC",
+    "position": 44,
+    "requirement": 73,
+    "player": "nqlol",
+    "progress": 78
+  },
+  {
+    "demon_id": 501,
+    "demon": "KOCMOC",
+    "position": 44,
+    "requirement": 73,
+    "player": "Urilook7",
+    "progress": 75
+  },
+  {
+    "demon_id": 501,
+    "demon": "KOCMOC",
+    "position": 44,
+    "requirement": 73,
+    "player": "[Hi] ByteLaw",
+    "progress": 74
+  },
+  {
+    "demon_id": 501,
+    "demon": "KOCMOC",
+    "position": 44,
+    "requirement": 73,
+    "player": "ZtxGMD",
+    "progress": 73
+  },
+  {
+    "demon_id": 501,
+    "demon": "KOCMOC",
+    "position": 44,
+    "requirement": 73,
+    "player": "cbrown789",
+    "progress": 73
+  },
+  {
+    "demon_id": 679,
+    "demon": "BEING HOME",
+    "position": 45,
+    "requirement": 73,
+    "player": "[CFJ] Havy_jonnyy",
+    "progress": 73
+  },
+  {
+    "demon_id": 516,
+    "demon": "Deimos",
+    "position": 46,
+    "requirement": 70,
+    "player": "RaizingGD",
+    "progress": 92
+  },
+  {
+    "demon_id": 516,
+    "demon": "Deimos",
+    "position": 46,
+    "requirement": 70,
+    "player": "ImpaleXD",
+    "progress": 87
+  },
+  {
+    "demon_id": 516,
+    "demon": "Deimos",
+    "position": 46,
+    "requirement": 70,
+    "player": "pillz",
+    "progress": 86
+  },
+  {
+    "demon_id": 516,
+    "demon": "Deimos",
+    "position": 46,
+    "requirement": 70,
+    "player": "[TARIQ] Katzen",
+    "progress": 80
+  },
+  {
+    "demon_id": 516,
+    "demon": "Deimos",
+    "position": 46,
+    "requirement": 70,
+    "player": "skzyl",
+    "progress": 79
+  },
+  {
+    "demon_id": 516,
+    "demon": "Deimos",
+    "position": 46,
+    "requirement": 70,
+    "player": "gerlicbrad",
+    "progress": 79
+  },
+  {
+    "demon_id": 516,
+    "demon": "Deimos",
+    "position": 46,
+    "requirement": 70,
+    "player": "[DL] mari",
+    "progress": 79
+  },
+  {
+    "demon_id": 516,
+    "demon": "Deimos",
+    "position": 46,
+    "requirement": 70,
+    "player": "[RF] It keeps your hands clean",
+    "progress": 75
+  },
+  {
+    "demon_id": 516,
+    "demon": "Deimos",
+    "position": 46,
+    "requirement": 70,
+    "player": "lemonliam",
+    "progress": 72
+  },
+  {
+    "demon_id": 516,
+    "demon": "Deimos",
+    "position": 46,
+    "requirement": 70,
+    "player": "vlipiins",
+    "progress": 70
+  },
+  {
+    "demon_id": 516,
+    "demon": "Deimos",
+    "position": 46,
+    "requirement": 70,
+    "player": "[GLUKE] Ihsa",
+    "progress": 70
+  },
+  {
+    "demon_id": 652,
+    "demon": "CHIL",
+    "position": 47,
+    "requirement": 78,
+    "player": "Exeleb",
+    "progress": 92
+  },
+  {
+    "demon_id": 652,
+    "demon": "CHIL",
+    "position": 47,
+    "requirement": 78,
+    "player": "bobcob",
+    "progress": 87
+  },
+  {
+    "demon_id": 652,
+    "demon": "CHIL",
+    "position": 47,
+    "requirement": 78,
+    "player": "roostan",
+    "progress": 86
+  },
+  {
+    "demon_id": 652,
+    "demon": "CHIL",
+    "position": 47,
+    "requirement": 78,
+    "player": "Nathan Gaming Pro",
+    "progress": 82
+  },
+  {
+    "demon_id": 652,
+    "demon": "CHIL",
+    "position": 47,
+    "requirement": 78,
+    "player": "Maciejeczka",
+    "progress": 81
+  },
+  {
+    "demon_id": 677,
+    "demon": "zorin",
+    "position": 48,
+    "requirement": 62,
+    "player": "slusset",
+    "progress": 83
+  },
+  {
+    "demon_id": 708,
+    "demon": "Prismline",
+    "position": 49,
+    "requirement": 71,
+    "player": "sawyer",
+    "progress": 82
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "[RIVER] Cclixgd",
+    "progress": 82
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "[CBD] Kiysa",
+    "progress": 82
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "[BUDDY] tricklength",
+    "progress": 81
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "crdd99",
+    "progress": 81
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "ztx",
+    "progress": 81
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "[OJ] Juic3yyy",
+    "progress": 80
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "Floccu",
+    "progress": 77
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "[jello] kelvin0",
+    "progress": 76
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "[Aze] Mando",
+    "progress": 75
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "Jpotww",
+    "progress": 75
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "Versuis",
+    "progress": 75
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "CrimsonRedVermillion",
+    "progress": 71
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "bartolini3",
+    "progress": 70
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "OVEklee",
+    "progress": 70
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "993",
+    "progress": 70
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "RdmGD",
+    "progress": 70
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "PaperGuy",
+    "progress": 70
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "Noella",
+    "progress": 70
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "Tenlee",
+    "progress": 70
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "[CBFA] zVoid",
+    "progress": 70
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "[HOLA] Kuhbio Ganol",
+    "progress": 70
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "Subez",
+    "progress": 70
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "GHOSTFLY",
+    "progress": 70
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "Macik01",
+    "progress": 70
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "Whiteoff",
+    "progress": 70
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "woolfys",
+    "progress": 70
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "[Ñ] Emiliano56",
+    "progress": 69
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "[FNM] Kallum",
+    "progress": 69
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "wyrd",
+    "progress": 69
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "[SELL] EdwardUKraine",
+    "progress": 69
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "EvanescentGD",
+    "progress": 69
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "[LOOT] poulen",
+    "progress": 69
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "ShafitGD",
+    "progress": 69
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "[WCL] Limitation",
+    "progress": 69
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "nqlol",
+    "progress": 69
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "Sape [GD]",
+    "progress": 69
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "andfisko",
+    "progress": 69
+  },
+  {
+    "demon_id": 391,
+    "demon": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69,
+    "player": "[HOLA] agatha",
+    "progress": 69
+  },
+  {
+    "demon_id": 655,
+    "demon": "The Salt Factory",
+    "position": 53,
+    "requirement": 66,
+    "player": "[gmccl] craig0",
+    "progress": 68
+  },
+  {
+    "demon_id": 695,
+    "demon": "Master of Puppets",
+    "position": 54,
+    "requirement": 83,
+    "player": "Eray2022",
+    "progress": 88
+  },
+  {
+    "demon_id": 648,
+    "demon": "Silentlocked",
+    "position": 56,
+    "requirement": 68,
+    "player": "Tired",
+    "progress": 75
+  },
+  {
+    "demon_id": 648,
+    "demon": "Silentlocked",
+    "position": 56,
+    "requirement": 68,
+    "player": "Conical",
+    "progress": 74
+  },
+  {
+    "demon_id": 648,
+    "demon": "Silentlocked",
+    "position": 56,
+    "requirement": 68,
+    "player": "pallas",
+    "progress": 73
+  },
+  {
+    "demon_id": 545,
+    "demon": "Eyes in the Water",
+    "position": 57,
+    "requirement": 71,
+    "player": "NitkaGD",
+    "progress": 81
+  },
+  {
+    "demon_id": 640,
+    "demon": "CONVULSION",
+    "position": 58,
+    "requirement": 64,
+    "player": "exadeci",
+    "progress": 71
+  },
+  {
+    "demon_id": 658,
+    "demon": "Snowbound",
+    "position": 59,
+    "requirement": 68,
+    "player": "[SEREK] strikk",
+    "progress": 74
+  },
+  {
+    "demon_id": 658,
+    "demon": "Snowbound",
+    "position": 59,
+    "requirement": 68,
+    "player": "ZanXL",
+    "progress": 73
+  },
+  {
+    "demon_id": 658,
+    "demon": "Snowbound",
+    "position": 59,
+    "requirement": 68,
+    "player": "chandelle",
+    "progress": 72
+  },
+  {
+    "demon_id": 658,
+    "demon": "Snowbound",
+    "position": 59,
+    "requirement": 68,
+    "player": "marcix",
+    "progress": 71
+  },
+  {
+    "demon_id": 739,
+    "demon": "Shadow Of The Past",
+    "position": 60,
+    "requirement": 76,
+    "player": "berth",
+    "progress": 83
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "Zwariowany Wojtek",
+    "progress": 97
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "Complexity",
+    "progress": 94
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "Ivix",
+    "progress": 93
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "[USSR] Resurgent",
+    "progress": 92
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "[tq] Elphelt",
+    "progress": 88
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "Lura",
+    "progress": 88
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "ioneix",
+    "progress": 87
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "4coco",
+    "progress": 86
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "oAquix",
+    "progress": 83
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "Tihra",
+    "progress": 82
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "TheNixuzGD200",
+    "progress": 81
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "[USSR] lonifer",
+    "progress": 81
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "LooopkoMortis",
+    "progress": 81
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "M1th",
+    "progress": 81
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "bartolini3",
+    "progress": 81
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "Bon",
+    "progress": 81
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "bleoodziger",
+    "progress": 80
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "Calcik",
+    "progress": 79
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "[Ñ] Ploffy",
+    "progress": 76
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "necrolord",
+    "progress": 76
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "Reta",
+    "progress": 76
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "zillix",
+    "progress": 75
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "M4nst3r",
+    "progress": 74
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "Kovok",
+    "progress": 74
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
+    "player": "[TMG] Scotchtape",
+    "progress": 74
+  },
+  {
+    "demon_id": 663,
+    "demon": "Through The Gates",
+    "position": 63,
+    "requirement": 90,
+    "player": "[CAFE] CoffeeChips",
+    "progress": 93
+  },
+  {
+    "demon_id": 663,
+    "demon": "Through The Gates",
+    "position": 63,
+    "requirement": 90,
+    "player": "Claous",
+    "progress": 93
+  },
+  {
+    "demon_id": 663,
+    "demon": "Through The Gates",
+    "position": 63,
+    "requirement": 90,
+    "player": "ra1n1337",
+    "progress": 93
+  },
+  {
+    "demon_id": 663,
+    "demon": "Through The Gates",
+    "position": 63,
+    "requirement": 90,
+    "player": "ZSiren",
+    "progress": 92
+  },
+  {
+    "demon_id": 663,
+    "demon": "Through The Gates",
+    "position": 63,
+    "requirement": 90,
+    "player": "[POJ] kwip",
+    "progress": 91
+  },
+  {
+    "demon_id": 614,
+    "demon": "Apocalyptic Trilogy",
+    "position": 64,
+    "requirement": 73,
+    "player": "gusano",
+    "progress": 87
+  },
+  {
+    "demon_id": 614,
+    "demon": "Apocalyptic Trilogy",
+    "position": 64,
+    "requirement": 73,
+    "player": "CameronTheNinja",
+    "progress": 78
+  },
+  {
+    "demon_id": 614,
+    "demon": "Apocalyptic Trilogy",
+    "position": 64,
+    "requirement": 73,
+    "player": "[ASTIL] nov",
+    "progress": 77
+  },
+  {
+    "demon_id": 707,
+    "demon": "Pinnacle of Life",
+    "position": 65,
+    "requirement": 71,
+    "player": "[YAHO] azxprovn",
+    "progress": 71
+  },
+  {
+    "demon_id": 587,
+    "demon": "KOSETSU",
+    "position": 66,
+    "requirement": 68,
+    "player": "Zaaforus",
+    "progress": 82
+  },
+  {
+    "demon_id": 587,
+    "demon": "KOSETSU",
+    "position": 66,
+    "requirement": 68,
+    "player": "[BLKHL] ZaZa GD",
+    "progress": 82
+  },
+  {
+    "demon_id": 587,
+    "demon": "KOSETSU",
+    "position": 66,
+    "requirement": 68,
+    "player": "oof my way",
+    "progress": 72
+  },
+  {
+    "demon_id": 587,
+    "demon": "KOSETSU",
+    "position": 66,
+    "requirement": 68,
+    "player": "bleepable",
+    "progress": 70
+  },
+  {
+    "demon_id": 667,
+    "demon": "Voltage",
+    "position": 68,
+    "requirement": 57,
+    "player": "[RF] Trixsm",
+    "progress": 63
+  },
+  {
+    "demon_id": 667,
+    "demon": "Voltage",
+    "position": 68,
+    "requirement": 57,
+    "player": "MythicGD",
+    "progress": 61
+  },
+  {
+    "demon_id": 667,
+    "demon": "Voltage",
+    "position": 68,
+    "requirement": 57,
+    "player": "exakic",
+    "progress": 60
+  },
+  {
+    "demon_id": 667,
+    "demon": "Voltage",
+    "position": 68,
+    "requirement": 57,
+    "player": "Chispii04",
+    "progress": 60
+  },
+  {
+    "demon_id": 667,
+    "demon": "Voltage",
+    "position": 68,
+    "requirement": 57,
+    "player": "pidan2222",
+    "progress": 59
+  },
+  {
+    "demon_id": 667,
+    "demon": "Voltage",
+    "position": 68,
+    "requirement": 57,
+    "player": "Cheeburger",
+    "progress": 59
+  },
+  {
+    "demon_id": 667,
+    "demon": "Voltage",
+    "position": 68,
+    "requirement": 57,
+    "player": "[GDYU] AlexPP223",
+    "progress": 57
+  },
+  {
+    "demon_id": 673,
+    "demon": "NOMAD",
+    "position": 69,
+    "requirement": 72,
+    "player": "oven",
+    "progress": 78
+  },
+  {
+    "demon_id": 673,
+    "demon": "NOMAD",
+    "position": 69,
+    "requirement": 72,
+    "player": "[HOLA] Foxdee",
+    "progress": 75
+  },
+  {
+    "demon_id": 673,
+    "demon": "NOMAD",
+    "position": 69,
+    "requirement": 72,
+    "player": "shawtyyshurryyy",
+    "progress": 75
+  },
+  {
+    "demon_id": 673,
+    "demon": "NOMAD",
+    "position": 69,
+    "requirement": 72,
+    "player": "JackoXD⁩",
+    "progress": 73
+  },
+  {
+    "demon_id": 705,
+    "demon": "NervHell",
+    "position": 70,
+    "requirement": 64,
+    "player": "Bacolor",
+    "progress": 90
+  },
+  {
+    "demon_id": 705,
+    "demon": "NervHell",
+    "position": 70,
+    "requirement": 64,
+    "player": "ExiliuS",
+    "progress": 81
+  },
+  {
+    "demon_id": 705,
+    "demon": "NervHell",
+    "position": 70,
+    "requirement": 64,
+    "player": "tober",
+    "progress": 81
+  },
+  {
+    "demon_id": 705,
+    "demon": "NervHell",
+    "position": 70,
+    "requirement": 64,
+    "player": "[LARP] latenightpiss",
+    "progress": 76
+  },
+  {
+    "demon_id": 705,
+    "demon": "NervHell",
+    "position": 70,
+    "requirement": 64,
+    "player": "[NDSH] MoyaiX",
+    "progress": 69
+  },
+  {
+    "demon_id": 705,
+    "demon": "NervHell",
+    "position": 70,
+    "requirement": 64,
+    "player": "vulcanium4",
+    "progress": 66
+  },
+  {
+    "demon_id": 705,
+    "demon": "NervHell",
+    "position": 70,
+    "requirement": 64,
+    "player": "Zaffy",
+    "progress": 65
+  },
+  {
+    "demon_id": 705,
+    "demon": "NervHell",
+    "position": 70,
+    "requirement": 64,
+    "player": "Turt1e",
+    "progress": 64
+  },
+  {
+    "demon_id": 705,
+    "demon": "NervHell",
+    "position": 70,
+    "requirement": 64,
+    "player": "kyno",
+    "progress": 64
+  },
+  {
+    "demon_id": 642,
+    "demon": "Loops of Fury",
+    "position": 71,
+    "requirement": 73,
+    "player": "[UK] CrystalGD",
+    "progress": 78
+  },
+  {
+    "demon_id": 642,
+    "demon": "Loops of Fury",
+    "position": 71,
+    "requirement": 73,
+    "player": "HickyZack",
+    "progress": 76
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "Crabicle",
+    "progress": 98
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "DQATARJ",
+    "progress": 98
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "Crazydash17",
+    "progress": 98
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "[TARIQ] super79",
+    "progress": 93
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "[HERVE] zMatmon",
+    "progress": 92
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "Nightmarri",
+    "progress": 91
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "[APPLE] Batthumbs",
+    "progress": 88
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "ThDiego740",
+    "progress": 88
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "[FOWL] Erantic",
+    "progress": 88
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "JameSharpener",
+    "progress": 85
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "[WCL] Cynoq",
+    "progress": 83
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "xyiuyo",
+    "progress": 83
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "Layner",
+    "progress": 83
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "[OG B] loliwz",
+    "progress": 81
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "inapt",
+    "progress": 81
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "screenz",
+    "progress": 80
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "galagzee",
+    "progress": 78
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "Tami",
+    "progress": 77
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "Sausage Candles",
+    "progress": 77
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "[BLKHL] Lexxxy",
+    "progress": 77
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "[IHGD] AbsoluteGMD",
+    "progress": 77
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "[CBD] ejgpsyched",
+    "progress": 75
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "Maciejeczka",
+    "progress": 75
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "[COMET] Lemon!",
+    "progress": 75
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "[CONCO] Nero",
+    "progress": 71
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "ElPepinooXGD",
+    "progress": 71
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "jackf",
+    "progress": 71
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "Jmg",
+    "progress": 70
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "Cewz",
+    "progress": 67
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "NMSpeedruns",
+    "progress": 67
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "NiklasOT",
+    "progress": 67
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "[MAOR] abb2k",
+    "progress": 66
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "Rystical",
+    "progress": 66
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "jf",
+    "progress": 66
+  },
+  {
+    "demon_id": 683,
+    "demon": "Calibrate",
+    "position": 75,
+    "requirement": 63,
+    "player": "[KAN] Hypa",
+    "progress": 94
+  },
+  {
+    "demon_id": 683,
+    "demon": "Calibrate",
+    "position": 75,
+    "requirement": 63,
+    "player": "[CHIL] EmeraldKnight",
+    "progress": 84
+  },
+  {
+    "demon_id": 683,
+    "demon": "Calibrate",
+    "position": 75,
+    "requirement": 63,
+    "player": "VikzGD",
+    "progress": 81
+  },
+  {
+    "demon_id": 683,
+    "demon": "Calibrate",
+    "position": 75,
+    "requirement": 63,
+    "player": "Lukrasz",
+    "progress": 76
+  },
+  {
+    "demon_id": 683,
+    "demon": "Calibrate",
+    "position": 75,
+    "requirement": 63,
+    "player": "maxyop3",
+    "progress": 73
+  },
+  {
+    "demon_id": 683,
+    "demon": "Calibrate",
+    "position": 75,
+    "requirement": 63,
+    "player": "[BGDL] soletki",
+    "progress": 63
+  }
+]

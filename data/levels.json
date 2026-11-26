@@ -1,0 +1,452 @@
+[
+  {
+    "id": 728,
+    "name": "GRIEF",
+    "position": 1,
+    "requirement": 76
+  },
+  {
+    "id": 730,
+    "name": "Artemis 13",
+    "position": 2,
+    "requirement": 73
+  },
+  {
+    "id": 698,
+    "name": "Society",
+    "position": 3,
+    "requirement": 66
+  },
+  {
+    "id": 635,
+    "name": "Thinking Space II",
+    "position": 4,
+    "requirement": 79
+  },
+  {
+    "id": 623,
+    "name": "Amethyst",
+    "position": 5,
+    "requirement": 59
+  },
+  {
+    "id": 638,
+    "name": "Flamewall",
+    "position": 6,
+    "requirement": 68
+  },
+  {
+    "id": 562,
+    "name": "Tidal Wave",
+    "position": 7,
+    "requirement": 72
+  },
+  {
+    "id": 702,
+    "name": "Green Bullet",
+    "position": 8,
+    "requirement": 68
+  },
+  {
+    "id": 671,
+    "name": "ORBIT",
+    "position": 9,
+    "requirement": 65
+  },
+  {
+    "id": 711,
+    "name": "Antarctic Lights",
+    "position": 10,
+    "requirement": 75
+  },
+  {
+    "id": 589,
+    "name": "Nullscapes",
+    "position": 11,
+    "requirement": 68
+  },
+  {
+    "id": 660,
+    "name": "Quanteuse processing",
+    "position": 12,
+    "requirement": 60
+  },
+  {
+    "id": 594,
+    "name": "BOOBAWAMBA",
+    "position": 13,
+    "requirement": 63
+  },
+  {
+    "id": 700,
+    "name": "The Bloop",
+    "position": 14,
+    "requirement": 67
+  },
+  {
+    "id": 620,
+    "name": "Every End",
+    "position": 15,
+    "requirement": 67
+  },
+  {
+    "id": 669,
+    "name": "Ashley Wave Trials",
+    "position": 16,
+    "requirement": 77
+  },
+  {
+    "id": 736,
+    "name": "Old Orochi",
+    "position": 17,
+    "requirement": 60
+  },
+  {
+    "id": 428,
+    "name": "Silent clubstep",
+    "position": 18,
+    "requirement": 63
+  },
+  {
+    "id": 704,
+    "name": "Ultra Paracosm",
+    "position": 19,
+    "requirement": 37
+  },
+  {
+    "id": 680,
+    "name": "Penumbral",
+    "position": 20,
+    "requirement": 80
+  },
+  {
+    "id": 613,
+    "name": "andromeda",
+    "position": 21,
+    "requirement": 66
+  },
+  {
+    "id": 696,
+    "name": "KILLSTEALER",
+    "position": 22,
+    "requirement": 69
+  },
+  {
+    "id": 649,
+    "name": "Subsuming Vortex",
+    "position": 23,
+    "requirement": 66
+  },
+  {
+    "id": 602,
+    "name": "Anathema",
+    "position": 24,
+    "requirement": 77
+  },
+  {
+    "id": 745,
+    "name": "Azure Flare",
+    "position": 25,
+    "requirement": 57
+  },
+  {
+    "id": 639,
+    "name": "Defeated Circles",
+    "position": 26,
+    "requirement": 73
+  },
+  {
+    "id": 486,
+    "name": "Avernus",
+    "position": 27,
+    "requirement": 67
+  },
+  {
+    "id": 715,
+    "name": "FOREST OF SPIKES",
+    "position": 28,
+    "requirement": 66
+  },
+  {
+    "id": 442,
+    "name": "Acheron",
+    "position": 29,
+    "requirement": 70
+  },
+  {
+    "id": 742,
+    "name": "METROPOLIS",
+    "position": 30,
+    "requirement": 71
+  },
+  {
+    "id": 592,
+    "name": "Spectre",
+    "position": 31,
+    "requirement": 75
+  },
+  {
+    "id": 577,
+    "name": "Menace",
+    "position": 32,
+    "requirement": 73
+  },
+  {
+    "id": 413,
+    "name": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75
+  },
+  {
+    "id": 520,
+    "name": "Tunnel of Despair",
+    "position": 34,
+    "requirement": 79
+  },
+  {
+    "id": 468,
+    "name": "Kyouki",
+    "position": 35,
+    "requirement": 72
+  },
+  {
+    "id": 706,
+    "name": "Sacrifice",
+    "position": 36,
+    "requirement": 72
+  },
+  {
+    "id": 668,
+    "name": "Based After Based",
+    "position": 37,
+    "requirement": 74
+  },
+  {
+    "id": 709,
+    "name": "cognitohazard",
+    "position": 38,
+    "requirement": 75
+  },
+  {
+    "id": 528,
+    "name": "The Lightning Rod",
+    "position": 39,
+    "requirement": 63
+  },
+  {
+    "id": 697,
+    "name": "Maniacal Chains",
+    "position": 40,
+    "requirement": 85
+  },
+  {
+    "id": 733,
+    "name": "Thinking Space II",
+    "position": 41,
+    "requirement": 74
+  },
+  {
+    "id": 380,
+    "name": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75
+  },
+  {
+    "id": 612,
+    "name": "Subterminal Point",
+    "position": 43,
+    "requirement": 71
+  },
+  {
+    "id": 501,
+    "name": "KOCMOC",
+    "position": 44,
+    "requirement": 73
+  },
+  {
+    "id": 679,
+    "name": "BEING HOME",
+    "position": 45,
+    "requirement": 73
+  },
+  {
+    "id": 516,
+    "name": "Deimos",
+    "position": 46,
+    "requirement": 70
+  },
+  {
+    "id": 652,
+    "name": "CHIL",
+    "position": 47,
+    "requirement": 78
+  },
+  {
+    "id": 677,
+    "name": "zorin",
+    "position": 48,
+    "requirement": 62
+  },
+  {
+    "id": 708,
+    "name": "Prismline",
+    "position": 49,
+    "requirement": 71
+  },
+  {
+    "id": 731,
+    "name": "BASSLINE JUNKIE",
+    "position": 50,
+    "requirement": 71
+  },
+  {
+    "id": 391,
+    "name": "Sakupen Circles",
+    "position": 51,
+    "requirement": 69
+  },
+  {
+    "id": 746,
+    "name": "AMY",
+    "position": 52,
+    "requirement": 77
+  },
+  {
+    "id": 655,
+    "name": "The Salt Factory",
+    "position": 53,
+    "requirement": 66
+  },
+  {
+    "id": 695,
+    "name": "Master of Puppets",
+    "position": 54,
+    "requirement": 83
+  },
+  {
+    "id": 737,
+    "name": "Lost in Time 2",
+    "position": 55,
+    "requirement": 66
+  },
+  {
+    "id": 648,
+    "name": "Silentlocked",
+    "position": 56,
+    "requirement": 68
+  },
+  {
+    "id": 545,
+    "name": "Eyes in the Water",
+    "position": 57,
+    "requirement": 71
+  },
+  {
+    "id": 640,
+    "name": "CONVULSION",
+    "position": 58,
+    "requirement": 64
+  },
+  {
+    "id": 658,
+    "name": "Snowbound",
+    "position": 59,
+    "requirement": 68
+  },
+  {
+    "id": 739,
+    "name": "Shadow Of The Past",
+    "position": 60,
+    "requirement": 76
+  },
+  {
+    "id": 740,
+    "name": "ace",
+    "position": 61,
+    "requirement": 64
+  },
+  {
+    "id": 379,
+    "name": "Firework",
+    "position": 62,
+    "requirement": 71
+  },
+  {
+    "id": 663,
+    "name": "Through The Gates",
+    "position": 63,
+    "requirement": 90
+  },
+  {
+    "id": 614,
+    "name": "Apocalyptic Trilogy",
+    "position": 64,
+    "requirement": 73
+  },
+  {
+    "id": 707,
+    "name": "Pinnacle of Life",
+    "position": 65,
+    "requirement": 71
+  },
+  {
+    "id": 587,
+    "name": "KOSETSU",
+    "position": 66,
+    "requirement": 68
+  },
+  {
+    "id": 741,
+    "name": "BLAZEIT",
+    "position": 67,
+    "requirement": 66
+  },
+  {
+    "id": 667,
+    "name": "Voltage",
+    "position": 68,
+    "requirement": 57
+  },
+  {
+    "id": 673,
+    "name": "NOMAD",
+    "position": 69,
+    "requirement": 72
+  },
+  {
+    "id": 705,
+    "name": "NervHell",
+    "position": 70,
+    "requirement": 64
+  },
+  {
+    "id": 642,
+    "name": "Loops of Fury",
+    "position": 71,
+    "requirement": 73
+  },
+  {
+    "id": 681,
+    "name": "Fracture",
+    "position": 72,
+    "requirement": 66
+  },
+  {
+    "id": 464,
+    "name": "poocubed",
+    "position": 73,
+    "requirement": 66
+  },
+  {
+    "id": 748,
+    "name": "Hazard Duty Pay",
+    "position": 74,
+    "requirement": 71
+  },
+  {
+    "id": 683,
+    "name": "Calibrate",
+    "position": 75,
+    "requirement": 63
+  }
+]
