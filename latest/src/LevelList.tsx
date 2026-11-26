@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import levelsData from "@data/levels.json"
 import type { Level } from "./types";
 
-const levels = [...Link(levelsData as Level[])].sort((a,b) => a.position - b.position);
+const levels = [...(levelsData as Level[])].sort((a,b) => a.position - b.position);
 
 function LevelList() {
     return (
@@ -17,7 +17,7 @@ function LevelList() {
                     <ul className="record-list">
                         {levels.map(level => (
                             <li key={level.id}>
-                                <Link to={`/level${level.id}`} className="level-link">
+                                <Link to={`/level/${level.id}`} className="level-link">
                                     #{level.position} - {level.name}
                                 </Link>
                             </li>

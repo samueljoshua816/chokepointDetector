@@ -62,8 +62,8 @@ function LevelPage() {
                         <ul className="record-list">
                             {records.map(r => (
                                 <li key={r.player}>
-                                    {r.player}
-                                    {r.progress}%
+                                    <span>{r.player} - </span>
+                                    <span>{r.progress}%</span>
                                 </li>
                             ))}
                         </ul>
