@@ -2704,6 +2704,14 @@
     "progress": 75
   },
   {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Xemispicion",
+    "progress": 75
+  },
+  {
     "demon_id": 612,
     "demon": "Subterminal Point",
     "position": 43,
@@ -4085,6 +4093,14 @@
     "position": 73,
     "requirement": 66,
     "player": "jackf",
+    "progress": 71
+  },
+  {
+    "demon_id": 464,
+    "demon": "poocubed",
+    "position": 73,
+    "requirement": 66,
+    "player": "[RHTE] TheFireInside",
     "progress": 71
   },
   {
