@@ -2,6 +2,7 @@ import {Link, useParams} from "react-router-dom"
 import levelsData from "@data/levels.json"
 import progressRecords from "@data/progress_records.json";
 import type {Level, LevelRecord} from "./types"
+import DeathBar from "./DeathBar";
 import './App.css'
 
 const levels = levelsData as Level[]
@@ -45,11 +46,13 @@ function LevelPage() {
                     <p className = "stat"> {records.length} progress records</p>
                     {records.length > 0 ?  (
                     <p className="stat">
-                        Worst Chokepoint: {modes.join("%, ")}%
+                        Worst Chokepoint(s): {modes.join("%, ")}%
                     </p>
                     ) : (
                         <p className="stat">No progress records for this Level</p>
                     )}
+                    {records.length > 0 && <DeathBar records={records} />}
+                    
                 </div>
 
                 {records.length > 0 && (

@@ -13,7 +13,7 @@ function LevelList() {
 
             <div className = "container">
                 <div className = "card">
-                    <h2>Main List</h2>
+                    <h2>Top 150 List</h2>
                     <ul className="record-list">
                         {levels.map(level => (
                             <li key={level.id}>

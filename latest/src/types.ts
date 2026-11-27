@@ -29,3 +29,7 @@ export type LevelRecord = {
     player: string;
     progress: number;
 };
+
+export type DeathBarProps = {
+    records: LevelRecord[];
+}
