@@ -1,8 +1,8 @@
 name: Update Pointercrate Records
 
 on:
-  schedule:
-    - cron: "0 5,17 * * *"   # 12AM and 12PM updates
+  #schedule: - failed because Pointercrate is blocking GitHubActions' IP
+   # - cron: "0 5,17 * * *"   # 12AM and 12PM updates
   workflow_dispatch:       
 
 permissions:
