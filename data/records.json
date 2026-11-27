@@ -2476,6 +2476,14 @@
     "demon": "Defeated Circles",
     "position": 26,
     "requirement": 73,
+    "player": "ChopBlox",
+    "progress": 100
+  },
+  {
+    "demon_id": 639,
+    "demon": "Defeated Circles",
+    "position": 26,
+    "requirement": 73,
     "player": "necrolord",
     "progress": 87
   },
@@ -10420,6 +10428,14 @@
     "demon": "Slaughterhouse",
     "position": 42,
     "requirement": 75,
+    "player": "Pluto",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
     "player": "[THING] Pup",
     "progress": 81
   },
@@ -10501,6 +10517,14 @@
     "position": 42,
     "requirement": 75,
     "player": "meylowW",
+    "progress": 80
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Wangster",
     "progress": 80
   },
   {
@@ -15653,7 +15677,7 @@
     "position": 51,
     "requirement": 69,
     "player": "[RIVER] Cclixgd",
-    "progress": 82
+    "progress": 100
   },
   {
     "demon_id": 391,
@@ -68760,6 +68784,14 @@
     "progress": 100
   },
   {
+    "demon_id": 687,
+    "demon": "Trickshot",
+    "position": 131,
+    "requirement": 100,
+    "player": "sorrow",
+    "progress": 100
+  },
+  {
     "demon_id": 599,
     "demon": "BPATA MPAKA",
     "position": 132,
@@ -79493,6 +79525,14 @@
     "position": 138,
     "requirement": 72,
     "player": "xArthurXyy",
+    "progress": 100
+  },
+  {
+    "demon_id": 274,
+    "demon": "The Golden",
+    "position": 138,
+    "requirement": 72,
+    "player": "fillername",
     "progress": 100
   },
   {
@@ -91021,6 +91061,14 @@
     "position": 148,
     "requirement": 100,
     "player": "[MEALY] LAMINGTON",
+    "progress": 100
+  },
+  {
+    "demon_id": 716,
+    "demon": "Heavenly Sakupen",
+    "position": 148,
+    "requirement": 100,
+    "player": "[OX] zsakos",
     "progress": 100
   },
   {

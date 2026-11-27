@@ -2084,6 +2084,14 @@
     "demon": "Slaughterhouse",
     "position": 42,
     "requirement": 75,
+    "player": "Pluto",
+    "progress": 81
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
     "player": "[THING] Pup",
     "progress": 81
   },
@@ -2165,6 +2173,14 @@
     "position": 42,
     "requirement": 75,
     "player": "meylowW",
+    "progress": 80
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "Wangster",
     "progress": 80
   },
   {
@@ -2981,14 +2997,6 @@
     "position": 49,
     "requirement": 71,
     "player": "sawyer",
-    "progress": 82
-  },
-  {
-    "demon_id": 391,
-    "demon": "Sakupen Circles",
-    "position": 51,
-    "requirement": 69,
-    "player": "[RIVER] Cclixgd",
     "progress": 82
   },
   {
