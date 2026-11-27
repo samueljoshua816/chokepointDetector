@@ -5,6 +5,8 @@ import time
 
 pointercrateURL = "https://pointercrate.com/api/v2/demons"
 response = requests.get(f"{pointercrateURL}/listed/", params={"limit": 100, "after": 0}) 
+
+#because of the APIs limits, a 2nd call must be made to retreive data for levels ranked 101 - 150
 response2 = requests.get(f"{pointercrateURL}/listed/", params={"limit": 50, "after": 100})
 
 response.raise_for_status() 
@@ -13,13 +15,12 @@ demons = response.json()
 response2.raise_for_status()
 demons.extend(response2.json()) 
 
-# print(response.json()) test
-
+#collect ids for record searching since the initial call doesnt contain them
 ids = [d["id"] for d in demons]
 
-# print(ids) test
 records = []
 
+# fetch records for every level and compress it into a list
 for i in range(len(ids)):
     levelData = requests.get(f"{pointercrateURL}/{ids[i]}").json()["data"]
     for r in levelData["records"]:
@@ -32,8 +33,10 @@ for i in range(len(ids)):
             "progress": r["progress"],
         })
     print(f'{levelData["position"]} | {levelData["name"]}: {len(levelData["records"])} records')
-    time.sleep(0.25) #prevents rate limiting (hopefully)
+    #prevents rate limiting
+    time.sleep(0.25)
 
+#allows for the data to get put in a folder outside of scripts
 root = Path(__file__).resolve().parent.parent
 dir = root / "data"
 dir.mkdir(exist_ok=True)

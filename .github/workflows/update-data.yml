@@ -1,0 +1,39 @@
+name: Update Pointercrate Records
+
+on:
+  schedule:
+    - cron: "0 5,17 * * *"   # 12AM and 12PM updates
+  workflow_dispatch:       
+
+permissions:
+  contents: write          # allow commits
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    #ensures right setup is enabled
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch records
+        run: python scripts/recordAccess.py
+
+      - name: Filter records
+        run: python scripts/recordFilter.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          timestamp=$(TZ=America/New_York date "+%Y-%m-%d %I:%M %p %Z")
+          git diff --cached --quiet || git commit -m "Record data update via cron job ($timestamp)"
+          git push

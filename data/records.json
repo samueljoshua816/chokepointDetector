@@ -3908,6 +3908,22 @@
     "demon": "Acheron",
     "position": 29,
     "requirement": 70,
+    "player": "[ALÈS] Erratas",
+    "progress": 100
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
+    "player": "Florned",
+    "progress": 100
+  },
+  {
+    "demon_id": 442,
+    "demon": "Acheron",
+    "position": 29,
+    "requirement": 70,
     "player": "Slaughter",
     "progress": 100
   },
@@ -3965,14 +3981,6 @@
     "position": 29,
     "requirement": 70,
     "player": "[AMEN] dellonz",
-    "progress": 94
-  },
-  {
-    "demon_id": 442,
-    "demon": "Acheron",
-    "position": 29,
-    "requirement": 70,
-    "player": "Florned",
     "progress": 94
   },
   {
@@ -9773,6 +9781,14 @@
     "position": 42,
     "requirement": 75,
     "player": "[PAPUS] m4rleywave",
+    "progress": 100
+  },
+  {
+    "demon_id": 380,
+    "demon": "Slaughterhouse",
+    "position": 42,
+    "requirement": 75,
+    "player": "ARuopp",
     "progress": 100
   },
   {
@@ -29988,6 +30004,14 @@
     "demon": "BRITNEY NO SCLEARS",
     "position": 82,
     "requirement": 76,
+    "player": "[PSL] vonic",
+    "progress": 100
+  },
+  {
+    "demon_id": 684,
+    "demon": "BRITNEY NO SCLEARS",
+    "position": 82,
+    "requirement": 76,
     "player": "kriperr",
     "progress": 91
   },
@@ -35829,6 +35853,14 @@
     "position": 90,
     "requirement": 67,
     "player": "[RHTE] sharkyga",
+    "progress": 100
+  },
+  {
+    "demon_id": 610,
+    "demon": "The Plunge",
+    "position": 90,
+    "requirement": 67,
+    "player": "spiderwavee",
     "progress": 100
   },
   {
@@ -79468,6 +79500,22 @@
     "demon": "The Golden",
     "position": 138,
     "requirement": 72,
+    "player": "[VDL] liamwwo",
+    "progress": 100
+  },
+  {
+    "demon_id": 274,
+    "demon": "The Golden",
+    "position": 138,
+    "requirement": 72,
+    "player": "chaseqwe",
+    "progress": 100
+  },
+  {
+    "demon_id": 274,
+    "demon": "The Golden",
+    "position": 138,
+    "requirement": 72,
     "player": "[999] Thisisfcp",
     "progress": 94
   },
@@ -95508,6 +95556,22 @@
     "demon": "UNKNOWN",
     "position": 149,
     "requirement": 83,
+    "player": "[zzz] Exenity",
+    "progress": 100
+  },
+  {
+    "demon_id": 475,
+    "demon": "UNKNOWN",
+    "position": 149,
+    "requirement": 83,
+    "player": "[STACK] Jyvl01",
+    "progress": 100
+  },
+  {
+    "demon_id": 475,
+    "demon": "UNKNOWN",
+    "position": 149,
+    "requirement": 83,
     "player": "Alpha Ary",
     "progress": 97
   },
@@ -95660,7 +95724,7 @@
     "demon": "SPIRIT OVERCLOCK",
     "position": 150,
     "requirement": 100,
-    "player": "[didy] Jarmusz",
+    "player": "exerity",
     "progress": 100
   },
   {
@@ -95668,7 +95732,7 @@
     "demon": "SPIRIT OVERCLOCK",
     "position": 150,
     "requirement": 100,
-    "player": "exerity",
+    "player": "[didy] Jarmusz",
     "progress": 100
   },
   {

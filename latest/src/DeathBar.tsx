@@ -3,6 +3,8 @@ import * as d3 from "d3"
 import type { DeathBarProps } from "./types";
 
 function DeathBar({records}: DeathBarProps){
+
+    // created ref to the Vector Graphic
     const svgRef = useRef<SVGSVGElement | null>(null);
 
     useEffect(() =>{
@@ -53,16 +55,17 @@ function DeathBar({records}: DeathBarProps){
         
         const ticks = percents;
 
+        // handles % text formatting
         g.append("g")
             .attr("transform", `translate(0,${barHeight})`)
             .call(d3.axisBottom(x).tickValues(ticks).tickFormat(d => `${d}%`))
             .call(axis => axis.selectAll("text")
-                .attr("fill", "#90a2b2")
-                .attr("font-size", 8)
-                .attr("transform", "rotate(-90)")
-                .attr("text-anchor", "end")
-                .attr("dx", "-0.6em")
-                .attr("dy", "-0.4em"))
+            .attr("fill", "#90a2b2")
+            .attr("font-size", 8)
+            .attr("transform", "rotate(-90)")
+            .attr("text-anchor", "end")
+            .attr("dx", "-0.6em")
+            .attr("dy", "-0.4em"))
             .call(axis => axis.selectAll("line, path").attr("stroke", "#393f4e"));
 
     }, [records]);

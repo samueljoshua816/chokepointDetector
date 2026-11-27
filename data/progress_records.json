@@ -780,14 +780,6 @@
     "demon": "Acheron",
     "position": 29,
     "requirement": 70,
-    "player": "Florned",
-    "progress": 94
-  },
-  {
-    "demon_id": 442,
-    "demon": "Acheron",
-    "position": 29,
-    "requirement": 70,
     "player": "Maihem",
     "progress": 94
   },
