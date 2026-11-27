@@ -4,13 +4,14 @@ import json
 import time
 
 pointercrateURL = "https://pointercrate.com/api/v2/demons"
-response = requests.get(f"{pointercrateURL}/listed/", params={"limit": 75, "after": 0}) 
-
-# for now this program will deal with levels on the Main List (1 - 75)
-# later I'll consider extending this to the Extended List (76 - 150) or include all legacy levels
+response = requests.get(f"{pointercrateURL}/listed/", params={"limit": 100, "after": 0}) 
+response2 = requests.get(f"{pointercrateURL}/listed/", params={"limit": 50, "after": 100})
 
 response.raise_for_status() 
 demons = response.json()
+
+response2.raise_for_status()
+demons.extend(response2.json()) 
 
 # print(response.json()) test
 
