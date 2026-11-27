@@ -4,6 +4,12 @@ import json
 import time
 
 pointercrateURL = "https://pointercrate.com/api/v2/demons"
+
+session = requests.Session()
+session.headers.update({
+    "User-Agent": "chokepointDetector (github.com/samueljoshua816/chokepointDetector)"
+})
+
 response = requests.get(f"{pointercrateURL}/listed/", params={"limit": 100, "after": 0}) 
 
 #because of the APIs limits, a 2nd call must be made to retreive data for levels ranked 101 - 150
@@ -22,7 +28,9 @@ records = []
 
 # fetch records for every level and compress it into a list
 for i in range(len(ids)):
-    levelData = requests.get(f"{pointercrateURL}/{ids[i]}").json()["data"]
+    levelResponse = session.get(f"{pointercrateURL}/{ids[i]}")
+    levelResponse.raise_for_status()
+    levelData = levelResponse.json()["data"]
     for r in levelData["records"]:
         records.append({
             "demon_id": levelData["id"],
