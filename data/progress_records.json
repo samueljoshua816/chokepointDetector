@@ -1164,6 +1164,14 @@
     "demon": "Abyss of Darkness",
     "position": 33,
     "requirement": 75,
+    "player": "ItzOguzok",
+    "progress": 95
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
     "player": "Cramble",
     "progress": 92
   },
@@ -3310,14 +3318,6 @@
     "requirement": 66,
     "player": "[gmccl] craig0",
     "progress": 68
-  },
-  {
-    "demon_id": 695,
-    "demon": "Master of Puppets",
-    "position": 54,
-    "requirement": 83,
-    "player": "Eray2022",
-    "progress": 88
   },
   {
     "demon_id": 648,

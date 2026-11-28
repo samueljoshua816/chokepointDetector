@@ -5196,6 +5196,14 @@
     "demon": "Abyss of Darkness",
     "position": 33,
     "requirement": 75,
+    "player": "ItzOguzok",
+    "progress": 95
+  },
+  {
+    "demon_id": 413,
+    "demon": "Abyss of Darkness",
+    "position": 33,
+    "requirement": 75,
     "player": "Cramble",
     "progress": 92
   },
@@ -16069,7 +16077,7 @@
     "position": 54,
     "requirement": 83,
     "player": "Eray2022",
-    "progress": 88
+    "progress": 100
   },
   {
     "demon_id": 648,
@@ -19020,6 +19028,14 @@
     "demon": "Firework",
     "position": 62,
     "requirement": 71,
+    "player": "ChromeGD",
+    "progress": 100
+  },
+  {
+    "demon_id": 379,
+    "demon": "Firework",
+    "position": 62,
+    "requirement": 71,
     "player": "Zwariowany Wojtek",
     "progress": 97
   },
@@ -21061,6 +21077,14 @@
     "position": 69,
     "requirement": 72,
     "player": "Laban",
+    "progress": 100
+  },
+  {
+    "demon_id": 673,
+    "demon": "NOMAD",
+    "position": 69,
+    "requirement": 72,
+    "player": "Ahmeddiaz",
     "progress": 100
   },
   {
@@ -35885,6 +35909,14 @@
     "position": 90,
     "requirement": 67,
     "player": "iangd",
+    "progress": 100
+  },
+  {
+    "demon_id": 610,
+    "demon": "The Plunge",
+    "position": 90,
+    "requirement": 67,
+    "player": "sinyster",
     "progress": 100
   },
   {
@@ -72008,6 +72040,14 @@
     "progress": 100
   },
   {
+    "demon_id": 710,
+    "demon": "Sanctity",
+    "position": 137,
+    "requirement": 100,
+    "player": "HexzGMD",
+    "progress": 100
+  },
+  {
     "demon_id": 274,
     "demon": "The Golden",
     "position": 138,
@@ -79573,6 +79613,14 @@
     "position": 138,
     "requirement": 72,
     "player": "chaseqwe",
+    "progress": 100
+  },
+  {
+    "demon_id": 274,
+    "demon": "The Golden",
+    "position": 138,
+    "requirement": 72,
+    "player": "tapirovec",
     "progress": 100
   },
   {
